@@ -30,6 +30,8 @@ Shokri et al. [Membership Inference Attacks Against Machine Learning Models](htt
 
 Bourtoule et al. [Machine Unlearning](https://arxiv.org/abs/1912.03817). In IEEE Symposium on Security and Privacy 2021.
 
+Brophy and Lowd. [DART: Data Addition and Removal Trees](https://arxiv.org/abs/2009.05567). In arXiv 2020.
+
 Ginart et al. [Making AI Forget You: Data Deletion in Machine Learning](http://papers.nips.cc/paper/8611-making-ai-forget-you-data-deletion-in-machine-learning). In NeurIPS 2019.
 
 Cao et al. [Efficient Repair of Polluted Machine Learning Systems via Causal Unlearning](https://dl.acm.org/citation.cfm?id=3196517). In ASIACCS 2018.
