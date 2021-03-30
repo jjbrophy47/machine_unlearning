@@ -26,7 +26,9 @@ Veale et al. [Algorithms that remember: model inversion attacks and data protect
 
 Shokri et al. [Membership Inference Attacks Against Machine Learning Models](https://ieeexplore.ieee.org/abstract/document/7958568). In SP 2017.
 
-## Exact Unlearning
+## Exact Unlearning (a.k.a Perfect Unlearning)
+
+Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
 
 Bourtoule et al. [Machine Unlearning](https://arxiv.org/abs/1912.03817). In IEEE Symposium on Security and Privacy 2021.
 
@@ -56,9 +58,11 @@ Tveit and Hetland. [Multicategory Incremental Proximal Support Vector Classifier
 
 Cauwenberghs and Poggio. [Incremental and Decremental Support Vector Machine Learning](http://papers.nips.cc/paper/1814-incremental-and-decremental-support-vector-machine-learning.pdf). In NeurIPS 2001.
 
-## Approximate Unlearning
+## Approximate Unlearning (a.k.a Statistical Unlearning)
 
-Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). in arXiv 2021.
+Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
+
+Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In arXiv 2021.
 
 Guo et al. [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030). In ICML 2020.
 
@@ -79,6 +83,8 @@ Baumhauer et al. [Machine Unlearning: Linear Filtration for Logit-based Classifi
 Tsai et al. [Incremental and decremental training for linear classification](https://dl.acm.org/citation.cfm?id=2623661). In KDD 2014.
 
 ## Mitigation
+
+Felps et al. [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699). In arXiv 2020.
 
 Tople te al. [Analyzing Privacy Loss in Updates of Natural Language Models](https://arxiv.org/abs/1912.07942). In arXiv 2019.
 
