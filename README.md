@@ -60,8 +60,6 @@ Cauwenberghs and Poggio. [Incremental and Decremental Support Vector Machine Lea
 
 ## Approximate Unlearning (a.k.a Statistical Unlearning)
 
-Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
-
 Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In arXiv 2021.
 
 Guo et al. [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030). In ICML 2020.
@@ -81,6 +79,12 @@ Golatkar et al. [Eternal Sunshine of the Spotless Net: Selective Forgetting in D
 Baumhauer et al. [Machine Unlearning: Linear Filtration for Logit-based Classifiers](https://arxiv.org/abs/2002.02730). In arXiv 2020.
 
 Tsai et al. [Incremental and decremental training for linear classification](https://dl.acm.org/citation.cfm?id=2623661). In KDD 2014.
+
+## Theory
+Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
+
+Neel et al. [Descent-to-Delete:
+Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132/neel21a.html). In ALT 2021.
 
 ## Mitigation
 
