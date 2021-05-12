@@ -28,13 +28,15 @@ Shokri et al. [Membership Inference Attacks Against Machine Learning Models](htt
 
 ## Exact Unlearning (a.k.a Perfect Unlearning)
 
+Brophy and Lowd. [Machine Unlearning for Random Forests](). In ICML 2021.
+
+Schelter et al. [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning](https://ssc.io/pdf/rdm235.pdf). In SIGMOD 2021.
+
 Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
 
 Bourtoule et al. [Machine Unlearning](https://arxiv.org/abs/1912.03817). In IEEE Symposium on Security and Privacy 2021.
 
 Aldaghri et al. [Coded Machine Unlearning](https://arxiv.org/abs/2012.15721). In arXiv 2020.
-
-Brophy and Lowd. [DART: Data Addition and Removal Trees](https://arxiv.org/abs/2009.05567). In arXiv 2020.
 
 Ginart et al. [Making AI Forget You: Data Deletion in Machine Learning](http://papers.nips.cc/paper/8611-making-ai-forget-you-data-deletion-in-machine-learning). In NeurIPS 2019.
 
