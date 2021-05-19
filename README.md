@@ -90,6 +90,8 @@ Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132
 
 ## Mitigation
 
+Huang et al. [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898). In ICLR 2021.
+
 Felps et al. [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699). In arXiv 2020.
 
 Tople te al. [Analyzing Privacy Loss in Updates of Natural Language Models](https://arxiv.org/abs/1912.07942). In arXiv 2019.
