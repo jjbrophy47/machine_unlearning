@@ -62,6 +62,10 @@ Cauwenberghs and Poggio. [Incremental and Decremental Support Vector Machine Lea
 
 ## Approximate Unlearning (a.k.a Statistical Unlearning)
 
+He et al. [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks](https://arxiv.org/abs/2105.06209). In arXiv 2021.
+
+Chen et al. [Graph Unlearning](https://arxiv.org/abs/2103.14991). In arXiv 2021.
+
 Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In arXiv 2021.
 
 Guo et al. [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030). In ICML 2020.
@@ -91,6 +95,9 @@ Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132
 ## Mitigation
 
 Huang et al. [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898). In ICLR 2021.
+
+Liu et al. [Learn to Forget: User-Level Memorization
+Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612_Learn_to_Forget_User-Level_Memorization_Elimination_in_Federated_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf). In arXiv 2020.
 
 Felps et al. [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699). In arXiv 2020.
 
