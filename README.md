@@ -112,3 +112,7 @@ Wang et al. [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neur
 Chen et al. [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205). In arXiv 2020.
 
 Sommer et al. [Towards Probabilistic Verification of Machine Unlearning](https://arxiv.org/abs/2003.04247). In arXiv 2020.
+
+## Model-Adaptation
+
+Khan and Swaroop. [Knowledge-Adaptation Priors](https://arxiv.org/abs/2106.08769). In arXiv 2021.
