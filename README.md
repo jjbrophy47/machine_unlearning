@@ -28,7 +28,7 @@ Shokri et al. [Membership Inference Attacks Against Machine Learning Models](htt
 
 ## Exact Unlearning (a.k.a Perfect Unlearning)
 
-Brophy and Lowd. [Machine Unlearning for Random Forests](). In ICML 2021.
+Brophy and Lowd. [Machine Unlearning for Random Forests](https://arxiv.org/abs/2009.05567). In ICML 2021.
 
 Schelter et al. [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning](https://ssc.io/pdf/rdm235.pdf). In SIGMOD 2021.
 
