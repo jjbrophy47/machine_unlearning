@@ -87,6 +87,9 @@ Baumhauer et al. [Machine Unlearning: Linear Filtration for Logit-based Classifi
 Tsai et al. [Incremental and decremental training for linear classification](https://dl.acm.org/citation.cfm?id=2623661). In KDD 2014.
 
 ## Theory
+
+Gupta et al. [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf). In arXiv 2021.
+
 Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
 
 Neel et al. [Descent-to-Delete:
