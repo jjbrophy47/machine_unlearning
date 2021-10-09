@@ -1,6 +1,6 @@
 # Notes on Machine Unlearning
 
-View [sorted by year](readme.md).
+[Sort by year](README.md).
 
 ## Problem Formulation
 

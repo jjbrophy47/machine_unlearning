@@ -1,6 +1,6 @@
 # Notes on Machine Unlearning
 
-View [sorted by topic](readme_topic.md).
+[Sort by topic](readme_topic.md).
 
 ## 2021
 
