@@ -64,6 +64,8 @@ Cauwenberghs and Poggio. [Incremental and Decremental Support Vector Machine Lea
 
 ## Approximate Unlearning (a.k.a Statistical Unlearning)
 
+Warnecke et al. [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf). In arXiv 2021.
+
 He et al. [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks](https://arxiv.org/abs/2105.06209). In arXiv 2021.
 
 Chen et al. [Graph Unlearning](https://arxiv.org/abs/2103.14991). In arXiv 2021.
