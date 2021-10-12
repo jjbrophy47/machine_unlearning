@@ -29,6 +29,8 @@ Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearn
 
 Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
 
+Warnecke et al. [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf). In arXiv 2021.
+
 ## 2020
 
 Guo et al. [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030). In ICML 2020.
