@@ -25,6 +25,9 @@ He et al. [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in D
 
 Khan and Swaroop. [Knowledge-Adaptation Priors](https://arxiv.org/abs/2106.08769). In arXiv 2021.
 
+Marchant et al. [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning
+](https://arxiv.org/abs/2109.08266). In arXiv 2021.
+
 Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
 
 Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
