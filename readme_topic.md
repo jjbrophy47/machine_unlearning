@@ -92,9 +92,9 @@ Tsai et al. [Incremental and decremental training for linear classification](htt
 
 ## Theory
 
-Gupta et al. [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf). In arXiv 2021.
+Gupta et al. [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf). In Neurips 2021.
 
-Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
+Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In Neurips 2021.
 
 Neel et al. [Descent-to-Delete:
 Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132/neel21a.html). In ALT 2021.

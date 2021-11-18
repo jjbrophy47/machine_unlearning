@@ -8,6 +8,8 @@ Brophy and Lowd. [Machine Unlearning for Random Forests](https://arxiv.org/abs/2
 
 Bourtoule et al. [Machine Unlearning](https://arxiv.org/abs/1912.03817). In IEEE Symposium on Security and Privacy 2021.
 
+Gupta et al. [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf). In Neurips 2021.
+
 Huang et al. [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898). In ICLR 2021.
 
 Neel et al. [Descent-to-Delete:
@@ -15,11 +17,11 @@ Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132
 
 Schelter et al. [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning](https://ssc.io/pdf/rdm235.pdf). In SIGMOD 2021.
 
+Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In Neurips 2021.
+
 Chen et al. [Graph Unlearning](https://arxiv.org/abs/2103.14991). In arXiv 2021.
 
 Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In arXiv 2021.
-
-Gupta et al. [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf). In arXiv 2021.
 
 He et al. [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks](https://arxiv.org/abs/2105.06209). In arXiv 2021.
 
@@ -27,8 +29,6 @@ Khan and Swaroop. [Knowledge-Adaptation Priors](https://arxiv.org/abs/2106.08769
 
 Marchant et al. [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning
 ](https://arxiv.org/abs/2109.08266). In arXiv 2021.
-
-Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In arXiv 2021.
 
 Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
 
