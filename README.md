@@ -1,6 +1,4 @@
-# Notes on Machine Unlearning
-
-[Sort by topic](readme_topic.md).
+# Machine Unlearning Papers
 
 ## 2021
 
@@ -19,7 +17,11 @@ Schelter et al. [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine 
 
 Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In Neurips 2021.
 
+### arXiv
+
 Chen et al. [Graph Unlearning](https://arxiv.org/abs/2103.14991). In arXiv 2021.
+
+Chen et al. [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869). In arXiv 2021.
 
 Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In arXiv 2021.
 
@@ -30,9 +32,20 @@ Khan and Swaroop. [Knowledge-Adaptation Priors](https://arxiv.org/abs/2106.08769
 Marchant et al. [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning
 ](https://arxiv.org/abs/2109.08266). In arXiv 2021.
 
+Parne et al. [Machine Unlearning: Learning, Polluting, and Unlearning for Spam Email](https://arxiv.org/abs/2111.14609). In arXiv 2021.
+
+Tarun et al. [Fast Yet Effective Machine Unlearning
+](https://arxiv.org/abs/2111.08947). In arXiv 2021.
+
 Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
 
+Wang et al. [Federated Unlearning via Class-Discriminative Pruning
+](https://arxiv.org/abs/2110.11794). In arXiv 2021.
+
 Warnecke et al. [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf). In arXiv 2021.
+
+Zeng et al. [Learning to Refit for Convex Learning Problems
+](https://arxiv.org/abs/2111.12545) In arXiv 2021.
 
 ## 2020
 
@@ -41,6 +54,8 @@ Guo et al. [Certified Data Removal from Machine Learning Models](https://arxiv.o
 Golatkar et al. [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://arxiv.org/abs/1911.04933). In CVPR 2020.
 
 Wu et. al [DeltaGrad: Rapid Retraining of Machine Learning Models](https://icml.cc/virtual/2020/poster/5915). In ICML 2020.
+
+### arXiv
 
 Aldaghri et al. [Coded Machine Unlearning](https://arxiv.org/abs/2012.15721). In arXiv 2020.
 
@@ -80,6 +95,8 @@ Shintre et al. [Making Machine Learning Forget](https://link.springer.com/chapte
 Du et al. [Lifelong Anomaly Detection Through Unlearning](https://dl.acm.org/doi/abs/10.1145/3319535.3363226). In CCS 2019.
 
 Wang et al. [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.vt.edu/vbimal/publications/backdoor-sp19.pdf). In IEEE Symposium on Security and Privacy 2019.
+
+### arXiv
 
 Tople te al. [Analyzing Privacy Loss in Updates of Natural Language Models](https://arxiv.org/abs/1912.07942). In arXiv 2019.
 
