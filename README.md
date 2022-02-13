@@ -130,8 +130,6 @@ Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-L
 
 Sommer et al. [Towards Probabilistic Verification of Machine Unlearning](https://arxiv.org/abs/2003.04247). In arXiv 2020.
 
-Yiu et al. [Learn to Forget: User-Level Memorization Elimination in Federated Learning](https://arxiv.org/abs/2003.10933). In arXiv 2020.
-
 Yu et al. [Membership Inference with Privately Augmented Data Endorses the Benign while Suppresses the Adversary](https://arxiv.org/abs/2007.10567). In arXiv 2020.
 
 ## 2019
