@@ -26,7 +26,7 @@ Wu et al. [Federated Unlearning with Knowledge Distillation](https://arxiv.org/a
 
 Aldaghri et al. [Coded Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9458237). In IEEE Access 2021.
 
-Brophy and Lowd. [Machine Unlearning for Random Forests](https://arxiv.org/abs/2009.05567). In ICML 2021.
+Brophy and Lowd. [Machine Unlearning for Random Forests](http://proceedings.mlr.press/v139/brophy21a.html). In ICML 2021.
 
 Bourtoule et al. [Machine Unlearning](https://arxiv.org/abs/1912.03817). In IEEE Symposium on Security and Privacy 2021.
 
