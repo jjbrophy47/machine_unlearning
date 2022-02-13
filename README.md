@@ -1,14 +1,56 @@
 # Machine Unlearning Papers
 
+## 2022
+
+Chen et al. [Recommendation Unlearning](https://arxiv.org/abs/2201.06820). In TheWebConf 2022.
+
+Fu et al. [Knowledge Removal in Sampling-based Bayesian Inference](https://openreview.net/forum?id=dTqOcTUOQO). In ICLR 2022.
+
+Liu et al. [Backdoor Defense with Machine Unlearning](https://arxiv.org/abs/2201.09538). In INFOCOM 2022.
+
+Marchant et al. [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://arxiv.org/abs/2109.08266). In AAAI 2021.
+
+Wang et al. [Federated Unlearning via Class-Discriminative Pruning](https://arxiv.org/abs/2110.11794). In WWW 2022.
+
+### arXiv
+
+Chundawat et al. [Zero-Shot Machine Unlearning](https://arxiv.org/pdf/2201.05629.pdf). In arXiv 2022.
+
+Goal et al. [Evaluating Inexact Unlearning Requires Revisiting Forgetting](https://arxiv.org/abs/2201.06640). In arXiv 2022.
+
+Tarun et al. [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947). In arXiv 2022.
+
+Wu et al. [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441). In. arXiv 2022.
+
 ## 2021
+
+Aldaghri et al. [Coded Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9458237). In IEEE Access 2021.
 
 Brophy and Lowd. [Machine Unlearning for Random Forests](https://arxiv.org/abs/2009.05567). In ICML 2021.
 
 Bourtoule et al. [Machine Unlearning](https://arxiv.org/abs/1912.03817). In IEEE Symposium on Security and Privacy 2021.
 
+Chen et al. [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205). In CCS 2021.
+
+Dang et al. [Right to Be Forgotten in the Age of Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-71782-7_35). In ICADS 2021.
+
+Golatkar et al. [Mixed-Privacy Forgetting in Deep Networks](https://arxiv.org/abs/2012.13431). In CVPR 2021.
+
+Goyal et al. [Revisiting Machine Learning Training Process for Enhanced Data Privacy](https://dl.acm.org/doi/10.1145/3474124.3474208). In IC3 2021.
+
+Graves et al. [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371). In AAAI 2021.
+
 Gupta et al. [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf). In Neurips 2021.
 
 Huang et al. [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898). In ICLR 2021.
+
+Huang et al. [EMA: Auditing Data Removal from Trained Models](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_76). In MICCAI 2021.
+
+Khan and Swaroop. [Knowledge-Adaptation Priors](https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html). In NeurIPS 2021.
+
+Liu et al. [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274). In IWQoS 2021.
+
+Liu et al. [RevFRF: Enabling Cross-domain Random Forest Training with Revocable Federated Learning](https://ieeexplore.ieee.org/abstract/document/9514457). In IEEE Transactions on Secure and Depndable Computing 2021.
 
 Neel et al. [Descent-to-Delete:
 Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132/neel21a.html). In ALT 2021.
@@ -16,6 +58,16 @@ Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132
 Schelter et al. [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning](https://ssc.io/pdf/rdm235.pdf). In SIGMOD 2021.
 
 Sekhari et al. [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279). In Neurips 2021.
+
+Shibata et al. [Learning with Selective Forgetting](https://www.ijcai.org/proceedings/2021/0137.pdf). In IJCAI 2021.
+
+Jose and Simeone [A Unified PAC-Bayesian Framework for Machine Unlearning via Information Risk Minimization](https://ieeexplore.ieee.org/abstract/document/9596170). In MLSP Workshop 2021.
+
+Tahiliani et al. [Machine Unlearning: Its Need and Implementation Strategies](https://dl.acm.org/doi/abs/10.1145/3474124.3474158). In IC3 2021.
+
+Ullah et al. [Machine Unlearning via Algorithmic Stability](http://proceedings.mlr.press/v134/ullah21a.html). In COLT 2021.
+
+Wang and Schelter [Efficiently Maintaining Next Basket Recommendations under Additions and Deletions of Baskets and Items](https://arxiv.org/abs/2201.13313). In ORSUM Workshop 2021.
 
 ### arXiv
 
@@ -27,51 +79,51 @@ Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In 
 
 He et al. [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks](https://arxiv.org/abs/2105.06209). In arXiv 2021.
 
-Khan and Swaroop. [Knowledge-Adaptation Priors](https://arxiv.org/abs/2106.08769). In arXiv 2021.
-
-Marchant et al. [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning
-](https://arxiv.org/abs/2109.08266). In arXiv 2021.
+Madahaven and Mathioudakis. [Certifiable Machine Unlearning for Linear Models](https://arxiv.org/abs/2106.15093). In arXiv 2021.
 
 Parne et al. [Machine Unlearning: Learning, Polluting, and Unlearning for Spam Email](https://arxiv.org/abs/2111.14609). In arXiv 2021.
 
-Tarun et al. [Fast Yet Effective Machine Unlearning
-](https://arxiv.org/abs/2111.08947). In arXiv 2021.
+Peste et al. [SSSE: Efficiently Erasing Samples from Trained Machine Learning Models](https://arxiv.org/abs/2107.03860). In arXiv 2021.
 
-Ullah et al. [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179). In arXiv 2021.
+Tarun et al. [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947). In arXiv 2021.
 
-Wang et al. [Federated Unlearning via Class-Discriminative Pruning
-](https://arxiv.org/abs/2110.11794). In arXiv 2021.
+Thudi et al. [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://arxiv.org/abs/2109.13398). In arXiv 2021.
+
+Thudi et al. [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/abs/2110.11891). In arXiv 2021.
+
+Thudi et al. [Bounding Membership Inference ](https://openreview.net/forum?id=Mh40mAxxAUz). In arXiv 2021.
+
+Wang et al. [Federated Unlearning via Class-Discriminative Pruning](https://arxiv.org/abs/2110.11794). In arXiv 2021.
 
 Warnecke et al. [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf). In arXiv 2021.
 
-Zeng et al. [Learning to Refit for Convex Learning Problems
-](https://arxiv.org/abs/2111.12545) In arXiv 2021.
+Zeng et al. [Learning to Refit for Convex Learning Problems](https://arxiv.org/abs/2111.12545) In arXiv 2021.
 
 ## 2020
+
+Garg et al. [Formalizing Data Deletion in the Context of the Right to be Forgotten](https://arxiv.org/abs/2002.10635). In EUROCRYPT 2020.
+
+Golatkar et al. [Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations](https://arxiv.org/abs/1911.04933). In ECCV 2020.
 
 Guo et al. [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030). In ICML 2020.
 
 Golatkar et al. [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://arxiv.org/abs/1911.04933). In CVPR 2020.
 
+Nguyen et al. [Variational Bayesian Unlearning](https://proceedings.neurips.cc/paper/2020/hash/b8a6550662b363eb34145965d64d0cfb-Abstract.html). In NeurIPS 2020.
+
+Tople te al. [Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880). In CCS 2020.
+
 Wu et. al [DeltaGrad: Rapid Retraining of Machine Learning Models](https://icml.cc/virtual/2020/poster/5915). In ICML 2020.
 
 ### arXiv
 
-Aldaghri et al. [Coded Machine Unlearning](https://arxiv.org/abs/2012.15721). In arXiv 2020.
-
 Baumhauer et al. [Machine Unlearning: Linear Filtration for Logit-based Classifiers](https://arxiv.org/abs/2002.02730). In arXiv 2020.
-
-Garg et al. [Formalizing Data Deletion in the Context of the Right to be Forgotten](https://arxiv.org/abs/2002.10635). In arXiv 2020.
-
-Chen et al. [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205). In arXiv 2020.
 
 Felps et al. [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699). In arXiv 2020.
 
-Golatkar et al. [Mixed-Privacy Forgetting in Deep Networks](https://arxiv.org/abs/2012.13431). In arXiv 2020.
-
-Golatkar et al. [Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations](https://arxiv.org/abs/1911.04933). In arXiv 2020.
-
 Izzo et al. [Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluations](https://arxiv.org/abs/2002.10077). In arXiv 2020.
+
+Li et al. [Online Forgetting Process for Linear Regression Models](https://arxiv.org/abs/2012.01668). In arXiv 2020.
 
 Liu et al. [Learn to Forget: User-Level Memorization
 Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612_Learn_to_Forget_User-Level_Memorization_Elimination_in_Federated_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf). In arXiv 2020.
@@ -95,10 +147,6 @@ Shintre et al. [Making Machine Learning Forget](https://link.springer.com/chapte
 Du et al. [Lifelong Anomaly Detection Through Unlearning](https://dl.acm.org/doi/abs/10.1145/3319535.3363226). In CCS 2019.
 
 Wang et al. [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.vt.edu/vbimal/publications/backdoor-sp19.pdf). In IEEE Symposium on Security and Privacy 2019.
-
-### arXiv
-
-Tople te al. [Analyzing Privacy Loss in Updates of Natural Language Models](https://arxiv.org/abs/1912.07942). In arXiv 2019.
 
 ## 2018
 
