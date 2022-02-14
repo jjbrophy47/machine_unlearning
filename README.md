@@ -75,8 +75,6 @@ Chen et al. [Graph Unlearning](https://arxiv.org/abs/2103.14991). In arXiv 2021.
 
 Chen et al. [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869). In arXiv 2021.
 
-Fu et al. [Bayesian Inference Forgetting](https://arxiv.org/abs/2101.06417). In arXiv 2021.
-
 He et al. [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks](https://arxiv.org/abs/2105.06209). In arXiv 2021.
 
 Madahaven and Mathioudakis. [Certifiable Machine Unlearning for Linear Models](https://arxiv.org/abs/2106.15093). In arXiv 2021.
