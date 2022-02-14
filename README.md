@@ -39,7 +39,7 @@
 | Tahiliani et al. | [Machine Unlearning: Its Need and Implementation Strategies](https://dl.acm.org/doi/abs/10.1145/3474124.3474158) | IC3 |
 | Ullah et al. | [Machine Unlearning via Algorithmic Stability](http://proceedings.mlr.press/v134/ullah21a.html) | COLT |
 | Wang and Schelter | [Efficiently Maintaining Next Basket Recommendations under Additions and Deletions of Baskets and Items](https://arxiv.org/abs/2201.13313) | ORSUM Workshop |
-|
+| | |
 | Chen et al. | [Graph Unlearning](https://arxiv.org/abs/2103.14991) | arXiv |
 | Chen et al. | [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | arXiv |
 | He et al. | [DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks](https://arxiv.org/abs/2105.06209) | arXiv |
@@ -64,12 +64,12 @@
 | Nguyen et al. | [Variational Bayesian Unlearning](https://proceedings.neurips.cc/paper/2020/hash/b8a6550662b363eb34145965d64d0cfb-Abstract.html) | NeurIPS |
 | Tople te al. | [Analyzing Information Leakage of Updates to Natural Language Models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880) | CCS |
 | Wu et al. | [DeltaGrad: Rapid Retraining of Machine Learning Models](https://icml.cc/virtual/2020/poster/5915) | ICML |
-|
+| | |
 | Baumhauer et al. | [Machine Unlearning: Linear Filtration for Logit-based Classifiers](https://arxiv.org/abs/2002.02730) | arXiv |
 | Felps et al. | [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699) | arXiv |
 | Izzo et al. | [Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluations](https://arxiv.org/abs/2002.10077) | arXiv |
 | Li et al. | [Online Forgetting Process for Linear Regression Models](https://arxiv.org/abs/2012.01668) | arXiv |
-| Liu et al. | [Learn to Forget: User-Level Memorization Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612\_Learn\_to\_Forget\_User-Level\_Memorization\_Elimination\_in\_Federated\_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf) | arXiv |
+| Liu et al. | [Learn to Forget: User-Level Memorization Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612\_Learn\_to\_Forget\_User-Level\_Memorization\_Elimination\_in\_Federated\_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf) | arXiv | | |
 | Sommer et al. | [Towards Probabilistic Verification of Machine Unlearning](https://arxiv.org/abs/2003.04247) | arXiv |
 | Yu et al. | [Membership Inference with Privately Augmented Data Endorses the Benign while Suppresses the Adversary](https://arxiv.org/abs/2007.10567) | arXiv |
 
