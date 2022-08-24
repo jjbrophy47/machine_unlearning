@@ -1,4 +1,18 @@
 # Machine Unlearning Papers
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Github repo stars](https://img.shields.io/github/stars/jjbrophy47/machine_unlearning)
+![GitHub last commit](https://img.shields.io/github/last-commit/jjbrophy47/machine_unlearning)
+
+[2022](#2022) &nbsp;
+[2021](#2021) &nbsp;
+[2020](#2020) &nbsp;
+[2019](#2019) &nbsp;
+[2018](#2018) &nbsp;
+[2017](#2017) &nbsp;
+[Before 2017](#Before-2017) &nbsp;
+
+
+---
 
 ### 2022
 | Author(s) | Title | Venue |
@@ -13,11 +27,14 @@
 | Kim and Woo | [Efficient Two-Stage Model Retraining for Machine Unlearning](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/html/Kim_Efficient_Two-Stage_Model_Retraining_for_Machine_Unlearning_CVPRW_2022_paper.html) | CVPR Workshop |
 | Liu et al. | [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://arxiv.org/abs/2203.07320) | INFOCOM |
 | Liu et al. | [Backdoor Defense with Machine Unlearning](https://arxiv.org/abs/2201.09538) | INFOCOM |
+| Ma et al. | [Learn to Forget: Machine Unlearning Via Neuron Masking](https://ieeexplore.ieee.org/abstract/document/9844865) | IEEE Trans. Secure Dep. Comp. |
 | Mahadaven and Mathiodakis | [Certifiable Unlearning Pipelines for Logistic Regression: An Experimental Study](https://www.mdpi.com/2504-4990/4/3/28) | Machine Learning and Knowledge Extraction |
 | Marchant et al. | [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://arxiv.org/abs/2109.08266) | AAAI |
 | Mehta et al. | [Deep Unlearning via Randomized Conditionally Independent Hessians](https://openaccess.thecvf.com/content/CVPR2022/html/Mehta_Deep_Unlearning_via_Randomized_Conditionally_Independent_Hessians_CVPR_2022_paper.html) | CVPR |
+| Meng et al. | [Active forgetting via influence estimation for neural networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22981) | Int. J. Intelligent Systems |
 | Nguyen et al. | [Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs to be Forgotten](https://arxiv.org/abs/2202.13585) | ASIA CCS |
 | Ganhor et al. | [Unlearning Protected User Attributes in Recommendations with Adversarial Training](https://arxiv.org/abs/2206.04500) | SIGIR |
+| Sommer et al. | [Athena: Probabilistic Verification of Machine Unlearning](https://web.archive.org/web/20220721061150id_/https://petsymposium.org/popets/2022/popets-2022-0072.pdf) | PoPETs |
 | Thudi et al. | [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9797378) | EuroS&P |
 | Wang et al. | [Federated Unlearning via Class-Discriminative Pruning](https://arxiv.org/abs/2110.11794) | WWW |
 | Wu et al. | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf) | AAAI |
