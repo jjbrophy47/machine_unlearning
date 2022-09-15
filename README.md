@@ -46,6 +46,7 @@
 | Halimi et al. | [Federated Unlearning: How to Efficiently Erase a Client in FL?](https://arxiv.org/abs/2207.05521) | UpML Workshop |
 | Rawat et al. | [Challenges and Pitfalls of Bayesian Unlearning](https://arxiv.org/abs/2207.03227) | UpML Workshop |
 | | |
+| Becker and Liebig | [Evaluating Machine Unlearning via Epistemic Uncertainty](https://arxiv.org/abs/2208.10836) | arXiv |
 | Carlini et al. | [The Privacy Onion Effect: Memorization is Relative](https://arxiv.org/abs/2206.10469) | arXiv |
 | Chien et al. | [Certified Graph Unlearning](https://arxiv.org/abs/2206.09140) | arXiv |
 | Chilkuri et al. | [Debugging using Orthogonal Gradient Descent](https://arxiv.org/abs/2206.08489) | arXiv |
@@ -58,6 +59,8 @@
 | Guo et al. | [Efficient Attribute Unlearning: Towards Selective Removal of Input Attributes from Feature Representations](https://arxiv.org/abs/2202.13295) | arXiv |
 | Liu et al. | [Continual Learning and Private Unlearning](https://arxiv.org/abs/2203.12817) | arXiv |
 | Liu et al. | [Forgetting Fast in Recommender Systems](https://arxiv.org/abs/2208.06875) | arXiv |
+| Mercuri et al. | [An Introduction to Machine Unlearning](https://arxiv.org/abs/2209.00939) | arXiv |
+| Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
 | Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | arXiv |
 | Wu et al. | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv |
 | Yoon et al. | [Few-Shot Unlearning by Model Inversion](https://arxiv.org/abs/2205.15567) | arXiv |
@@ -70,6 +73,8 @@
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
 | Graves et al. | [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371) | AAAI |
+| Yu et al. | [Membership Inference with Privately Augmented Data Endorses the Benign while Suppresses the Adversary](https://arxiv.org/abs/2007.10567) | AAAI |
+| Izzo et al. | [Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluations](https://arxiv.org/abs/2002.10077) | AISTATS |
 | Li et al. | [Online Forgetting Process for Linear Regression Models](https://arxiv.org/abs/2012.01668) | AISTATS |
 | Neel et al. | [Descent-to-Delete: Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132/neel21a.html) | ALT |
 | Chen et al. | [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205) | CCS |
@@ -116,10 +121,8 @@
 | Nguyen et al. | [Variational Bayesian Unlearning](https://proceedings.neurips.cc/paper/2020/hash/b8a6550662b363eb34145965d64d0cfb-Abstract.html) | NeurIPS |
 | | |
 | Felps et al. | [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699) | arXiv |
-| Izzo et al. | [Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluations](https://arxiv.org/abs/2002.10077) | arXiv |
 | Liu et al. | [Learn to Forget: User-Level Memorization Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612\_Learn\_to\_Forget\_User-Level\_Memorization\_Elimination\_in\_Federated\_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf) | arXiv | | |
 | Sommer et al. | [Towards Probabilistic Verification of Machine Unlearning](https://arxiv.org/abs/2003.04247) | arXiv |
-| Yu et al. | [Membership Inference with Privately Augmented Data Endorses the Benign while Suppresses the Adversary](https://arxiv.org/abs/2007.10567) | arXiv |
 
 ### 2019
 | Author(s) | Title | Venue |
