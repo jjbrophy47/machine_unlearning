@@ -93,6 +93,7 @@
 | Liu et al. | [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274) | IWQoS |
 | Bourtoule et al. | [Machine Unlearning](https://arxiv.org/abs/1912.03817) | S&P |
 | Schelter et al. | [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning](https://ssc.io/pdf/rdm235.pdf) | SIGMOD |
+| | |
 | Aldaghri et al. | [Coded Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9458237) | IEEE Access |
 | Liu et al. | [RevFRF: Enabling Cross-domain Random Forest Training with Revocable Federated Learning](https://ieeexplore.ieee.org/abstract/document/9514457) | IEEE Trans. Secure Dep. Comp. |
 | | |
