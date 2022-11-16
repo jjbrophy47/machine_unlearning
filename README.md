@@ -42,28 +42,34 @@
 | Liu et al. | [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://arxiv.org/abs/2203.07320) | INFOCOM |
 | Liu et al. | [Backdoor Defense with Machine Unlearning](https://arxiv.org/abs/2201.09538) | INFOCOM |
 | Zhang et al. | [Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach](https://dl.acm.org/doi/abs/10.1145/3503161.3548378) | MM |
+| Zhang et al. | [Prompt Certified Machine Unlearning with Randomized Gradient Smoothing and Quantization](https://openreview.net/pdf?id=ue4gP8ZKiWb) | NeurIPS  |
 | Gao et al. | [Deletion Inference, Reconstruction, and Compliance in Machine (Un)Learning](https://arxiv.org/abs/2202.03460) | PETS |
 | Sommer et al. | [Athena: Probabilistic Verification of Machine Unlearning](https://web.archive.org/web/20220721061150id_/https://petsymposium.org/popets/2022/popets-2022-0072.pdf) | PoPETs |
+| Lu et al. | [FP2-MIA: A Membership Inference Attack Free of Posterior Probability in Machine Unlearning](https://link.springer.com/chapter/10.1007/978-3-031-20917-8_12) | ProvSec |
 | Cao et al. | [FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://arxiv.org/abs/2210.10936) | S&P |
 | Ganhor et al. | [Unlearning Protected User Attributes in Recommendations with Adversarial Training](https://arxiv.org/abs/2206.04500) | SIGIR |
 |Chen et al. | [Recommendation Unlearning](https://dl.acm.org/doi/abs/10.1145/3485447.3511997) | TheWebConf |
 | Thudi et al. | [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/abs/2110.11891) | USENIX Security |
 | Wang et al. | [Federated Unlearning via Class-Discriminative Pruning](https://arxiv.org/abs/2110.11794) | WWW |
-| | ||
+| | |
+| Fan et al. | [Fast Model Update for IoT Traffic Anomaly Detection with Machine Unlearning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9927728) | IEEE IoT-J |
 | Ma et al. | [Learn to Forget: Machine Unlearning Via Neuron Masking](https://ieeexplore.ieee.org/abstract/document/9844865) | IEEE Trans. Dep. Secure Comp. |
 | Lu et al. | [Label-only membership inference attacks on machine unlearning without dependence of posteriors](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23000) | Int. J. Intel. Systems |
 | Meng et al. | [Active forgetting via influence estimation for neural networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22981) | Int. J. Intel. Systems |
 | Baumhauer et al. | [Machine Unlearning: Linear Filtration for Logit-based Classifiers](https://link.springer.com/article/10.1007/s10994-022-06178-9) | Machine Learning |
 | Mahadaven and Mathiodakis | [Certifiable Unlearning Pipelines for Logistic Regression: An Experimental Study](https://www.mdpi.com/2504-4990/4/3/28) | Machine Learning and Knowledge Extraction |
-| | ||
+| | |
+| Kong et al. | [Forgeability and Membership Inference Attacks](https://dl.acm.org/doi/abs/10.1145/3560830.3563731) | AISec Workshop |
 | Kim and Woo | [Efficient Two-Stage Model Retraining for Machine Unlearning](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/html/Kim_Efficient_Two-Stage_Model_Retraining_for_Machine_Unlearning_CVPRW_2022_paper.html) | CVPR Workshop |
+| Gong et al. | [Forget-SVGD: Particle-Based Bayesian Federated Unlearning](https://ieeexplore.ieee.org/abstract/document/9820602) | DSL Workshop |
+| Chien et al. | [Certified Graph Unlearning](https://arxiv.org/abs/2206.09140) | GLFrontiers Workshop |
+| Lycklama et al. | [Cryptographic Auditing for Collaborative Learning](https://pps-lab.com/papers/camel_mlsafety.pdf) | ML Safety Workshop |
 | Yoon et al. | [Few-Shot Unlearning](https://download.huan-zhang.com/events/srml2022/accepted/yoon22fewshot.pdf) | SRML Workshop |
 | Halimi et al. | [Federated Unlearning: How to Efficiently Erase a Client in FL?](https://arxiv.org/abs/2207.05521) | UpML Workshop |
 | Rawat et al. | [Challenges and Pitfalls of Bayesian Unlearning](https://arxiv.org/abs/2207.03227) | UpML Workshop |
 | | ||
 | Becker and Liebig | [Evaluating Machine Unlearning via Epistemic Uncertainty](https://arxiv.org/abs/2208.10836) | arXiv |
 | Carlini et al. | [The Privacy Onion Effect: Memorization is Relative](https://arxiv.org/abs/2206.10469) | arXiv |
-| Chien et al. | [Certified Graph Unlearning](https://arxiv.org/abs/2206.09140) | arXiv |
 | Chilkuri et al. | [Debugging using Orthogonal Gradient Descent](https://arxiv.org/abs/2206.08489) | arXiv |
 | Chourasia et al. | [Forget Unlearning: Towards True Data-Deletion in Machine Learning](https://arxiv.org/abs/2210.08911) | arXiv |
 | Chundawat et al. | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | arXiv|
@@ -74,24 +80,25 @@
 | Goel et al. | [Evaluating Inexact Unlearning Requires Revisiting Forgetting](https://arxiv.org/abs/2201.06640) | arXiv |
 | Guo et al. | [Vertical Machine Unlearning: Selectively Removing Sensitive Information From Latent Feature Space](https://arxiv.org/abs/2202.13295) | arXiv |
 | Guo et al. | [Efficient Attribute Unlearning: Towards Selective Removal of Input Attributes from Feature Representations](https://arxiv.org/abs/2202.13295) | arXiv |
+| Jang et al. | [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504) | arXiv |
 | Liu et al. | [Forgetting Fast in Recommender Systems](https://arxiv.org/abs/2208.06875) | arXiv |
 | Lu et al. | [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636) | arXiv |
 | Mercuri et al. | [An Introduction to Machine Unlearning](https://arxiv.org/abs/2209.00939) | arXiv |
 | Mireshghallah et al. | [Non-Parametric Temporal Adaptation for Social Media Topic Classification](https://arxiv.org/abs/2209.05706) | arXiv |
 | Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
+| Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
+| Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
 | Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | arXiv |
 |Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | arXiv |
 | Weng et al. | [Proof of Unlearning: Definitions and Instantiation](https://arxiv.org/abs/2210.11334) | arXiv |
 | Wu et al. | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv |
+| Yu et al. | [LegoNet: A Fast and Exact Unlearning Architecture](https://arxiv.org/abs/2210.16023) | arXiv |
 | Yoon et al. | [Few-Shot Unlearning by Model Inversion](https://arxiv.org/abs/2205.15567) | arXiv |
 | Yuan et al. | [Federated Unlearning for On-Device Recommendation](https://arxiv.org/abs/2210.10958) | arXiv |
 | Cong and Mahdavi | [Privacy Matters! Efficient Graph Representation Unlearning with Data Removal Guarantee](https://congweilin.github.io/CongWeilin.io/files/Projector.pdf) | |
 | Cong and Mahdavi | [GraphEditor: An Efficient Graph Representation Learning and Unlearning Approach](https://congweilin.github.io/CongWeilin.io/files/GraphEditor.pdf) | |
 | Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind](https://rt416.github.io/pdf/model_repair_icml.pdf) ||
 | Wu et al. | [Provenance-based Model Maintenance: Implications for Privacy](http://sites.computer.org/debull/A22mar/p37.pdf) | |
-| Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
-| Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
-| Yu et al. | [LegoNet: A Fast and Exact Unlearning Architecture](https://arxiv.org/abs/2210.16023) | arXiv |
 
 ### 2021
 
@@ -111,6 +118,7 @@
 | Goyal et al. | [Revisiting Machine Learning Training Process for Enhanced Data Privacy](https://dl.acm.org/doi/10.1145/3474124.3474208) | IC3 |
 | Tahiliani et al. | [Machine Unlearning: Its Need and Implementation Strategies](https://dl.acm.org/doi/abs/10.1145/3474124.3474158) | IC3 |
 | Shibata et al. | [Learning with Selective Forgetting](https://www.ijcai.org/proceedings/2021/0137.pdf) | IJCAI |
+| Liu et al. | [Federated Unlearning](https://arxiv.org/abs/2012.13891) | IWQoS |
 | Huang et al. | [EMA: Auditing Data Removal from Trained Models](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_76) | MICCAI |
 | Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf) | NeurIPS |
 | Khan and Swaroop | [Knowledge-Adaptation Priors](https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html) | NeurIPS |
@@ -118,6 +126,7 @@
 | Liu et al. | [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274) | IWQoS |
 | Bourtoule et al. | [Machine Unlearning](https://arxiv.org/abs/1912.03817) | S&P |
 | Schelter et al. | [HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning](https://ssc.io/pdf/rdm235.pdf) | SIGMOD |
+| Gong et al. | [Bayesian Variational Federated Learning and Unlearning in Decentralized Networks](https://ieeexplore.ieee.org/abstract/document/9593225) | SPAWC |
 | | |
 | Aldaghri et al. | [Coded Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9458237) | IEEE Access |
 | Liu et al. | [RevFRF: Enabling Cross-domain Random Forest Training with Revocable Federated Learning](https://ieeexplore.ieee.org/abstract/document/9514457) | IEEE Trans. Dep. Secure Comp. |
