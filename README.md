@@ -20,7 +20,6 @@
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
-| Zeng et al. | https://openreview.net/forum?id=I03uWXMi6oD
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf) | NDSS |
 
 ### 2022
@@ -100,6 +99,7 @@
 | Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
 | Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
 | Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
+| Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind](https://arxiv.org/abs/2207.04806) | arXiv |
 | Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | arXiv |
 | Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | arXiv |
 | Weng et al. | [Proof of Unlearning: Definitions and Instantiation](https://arxiv.org/abs/2210.11334) | arXiv |
@@ -110,7 +110,6 @@
 | Zhu et al. | [Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models](https://arxiv.org/abs/2212.04687) | arXiv |
 | Cong and Mahdavi | [Privacy Matters! Efficient Graph Representation Unlearning with Data Removal Guarantee](https://congweilin.github.io/CongWeilin.io/files/Projector.pdf) | |
 | Cong and Mahdavi | [GraphEditor: An Efficient Graph Representation Learning and Unlearning Approach](https://congweilin.github.io/CongWeilin.io/files/GraphEditor.pdf) | |
-| Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind](https://rt416.github.io/pdf/model_repair_icml.pdf) |
 | Wu et al. | [Provenance-based Model Maintenance: Implications for Privacy](http://sites.computer.org/debull/A22mar/p37.pdf) |
 
 ### 2021
@@ -166,8 +165,8 @@
 | Wu et al. | [DeltaGrad: Rapid Retraining of Machine Learning Models](https://icml.cc/virtual/2020/poster/5915) | ICML |
 | Nguyen et al. | [Variational Bayesian Unlearning](https://proceedings.neurips.cc/paper/2020/hash/b8a6550662b363eb34145965d64d0cfb-Abstract.html) | NeurIPS |
 | | |
+| Liu et al. | [Learn to Forget: User-Level Memorization Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612\_Learn\_to\_Forget\_User-Level\_Memorization\_Elimination\_in\_Federated\_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf) | researchgate |
 | Felps et al. | [Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale](https://arxiv.org/abs/2012.04699) | arXiv |
-| Liu et al. | [Learn to Forget: User-Level Memorization Elimination in Federated Learning](https://www.researchgate.net/profile/Ximeng-Liu-5/publication/340134612\_Learn\_to\_Forget\_User-Level\_Memorization\_Elimination\_in\_Federated\_Learning/links/5e849e64a6fdcca789e5f955/Learn-to-Forget-User-Level-Memorization-Elimination-in-Federated-Learning.pdf) | arXiv | | |
 | Sommer et al. | [Towards Probabilistic Verification of Machine Unlearning](https://arxiv.org/abs/2003.04247) | arXiv |
 
 ### 2019
