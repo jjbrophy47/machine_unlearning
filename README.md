@@ -21,6 +21,15 @@
 |:--------- | ----- | ----- |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf) | NDSS |
+| Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
+| | |
+| Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
+| | |
+| Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
+| Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
+| Xu et al. | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | arXiv |
+| Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
+| Su and Li | [Asynchronous Federated Unlearning](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf) | |
 
 ### 2022
 | Author(s) | Title | Venue |
@@ -121,6 +130,7 @@
 | Izzo et al. | [Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluations](https://arxiv.org/abs/2002.10077) | AISTATS |
 | Li et al. | [Online Forgetting Process for Linear Regression Models](https://arxiv.org/abs/2012.01668) | AISTATS |
 | Neel et al. | [Descent-to-Delete: Gradient-Based Methods for Machine Unlearning](http://proceedings.mlr.press/v132/neel21a.html) | ALT |
+| Chen et al. | [REFIT: A Unified Watermark Removal Framework For Deep Learning Systems With Limited Data](https://dl.acm.org/doi/abs/10.1145/3433210.3453079) | ASIA CCS |
 | Chen et al. | [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205) | CCS |
 | Ullah et al. | [Machine Unlearning via Algorithmic Stability](http://proceedings.mlr.press/v134/ullah21a.html) | COLT |
 | Golatkar et al. | [Mixed-Privacy Forgetting in Deep Networks](https://arxiv.org/abs/2012.13431) | CVPR |
