@@ -34,6 +34,7 @@
 ### 2022
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind]([https://arxiv.org/abs/2207.04806](https://openreview.net/forum?id=XiwkvDTU10Y) | NeurIPS |
 | Marchant et al. | [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://arxiv.org/abs/2109.08266) | AAAI |
 | Wu et al. | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf) | AAAI |
 | Dai et al. | [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696) | ACL |
@@ -108,7 +109,6 @@
 | Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
 | Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
 | Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
-| Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind](https://arxiv.org/abs/2207.04806) | arXiv |
 | Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | arXiv |
 | Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | arXiv |
 | Weng et al. | [Proof of Unlearning: Definitions and Instantiation](https://arxiv.org/abs/2210.11334) | arXiv |
