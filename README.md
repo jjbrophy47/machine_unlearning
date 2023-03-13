@@ -34,7 +34,6 @@
 ### 2022
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
-| Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind]([https://arxiv.org/abs/2207.04806](https://openreview.net/forum?id=XiwkvDTU10Y) | NeurIPS |
 | Marchant et al. | [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://arxiv.org/abs/2109.08266) | AAAI |
 | Wu et al. | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf) | AAAI |
 | Dai et al. | [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696) | ACL |
@@ -56,6 +55,7 @@
 | Liu et al. | [Backdoor Defense with Machine Unlearning](https://arxiv.org/abs/2201.09538) | INFOCOM |
 | Jiang et al. | [Machine Unlearning Survey](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/125006J/Machine-unlearning-survey/10.1117/12.2660330.short?SSO=1) | MCTE |
 | Zhang et al. | [Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach](https://dl.acm.org/doi/abs/10.1145/3503161.3548378) | MM |
+| Tanno et al. | [Repairing Neural Networks by Leaving the Right Past Behind]([https://arxiv.org/abs/2207.04806](https://openreview.net/forum?id=XiwkvDTU10Y) | NeurIPS |
 | Zhang et al. | [Prompt Certified Machine Unlearning with Randomized Gradient Smoothing and Quantization](https://openreview.net/pdf?id=ue4gP8ZKiWb) | NeurIPS  |
 | Gao et al. | [Deletion Inference, Reconstruction, and Compliance in Machine (Un)Learning](https://arxiv.org/abs/2202.03460) | PETS |
 | Sommer et al. | [Athena: Probabilistic Verification of Machine Unlearning](https://web.archive.org/web/20220721061150id_/https://petsymposium.org/popets/2022/popets-2022-0072.pdf) | PoPETs |
