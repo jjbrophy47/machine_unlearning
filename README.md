@@ -19,14 +19,18 @@
 ### 2023
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
-| Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
+| Chen et al. | [Boundary Unlearning](https://arxiv.org/abs/2303.11570) | CVPR |
+| Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf) | NDSS |
+| Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
 | | |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
+| Cong and Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | arXiv |
 | Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
+| Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
 | Xu et al. | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | arXiv |
 | Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
 | Su and Li | [Asynchronous Federated Unlearning](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf) | |
