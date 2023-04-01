@@ -21,7 +21,7 @@
 |:--------- | ----- | ----- |
 | Chen et al. | [Boundary Unlearning](https://arxiv.org/abs/2303.11570) | CVPR |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
-| Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/pdf/2108.11577.pdf) | NDSS |
+| Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/abs/2108.11577) | NDSS |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
