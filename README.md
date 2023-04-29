@@ -98,8 +98,8 @@
 | Carlini et al. | [The Privacy Onion Effect: Memorization is Relative](https://arxiv.org/abs/2206.10469) | arXiv |
 | Chilkuri et al. | [Debugging using Orthogonal Gradient Descent](https://arxiv.org/abs/2206.08489) | arXiv |
 | Chourasia et al. | [Forget Unlearning: Towards True Data-Deletion in Machine Learning](https://arxiv.org/abs/2210.08911) | arXiv |
-| Chundawat et al. | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | IEEE Trans. Info. Forensics and Security|
-| Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://arxiv.org/abs/2205.08096) | AAAI |
+| Chundawat et al. | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | arXiv|
+| Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://arxiv.org/abs/2205.08096) | arXiv |
 | Cohen et al. | [Control, Confidentiality, and the Right to be Forgotten](https://arxiv.org/abs/2210.07876) | arXiv |
 | Eisenhofer et al. | [Verifiable and Provably Secure Machine Unlearning](https://arxiv.org/abs/2210.09126) | arXiv |
 | Fraboni et al. | [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/abs/2211.11656) | arXiv |
@@ -118,8 +118,8 @@
 | Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
 | Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
 | Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
-| Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | IEEE Trans. Neural Net. and Learn. Systems |
-| Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | ICML |
+| Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | arXiv |
+| Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | arXiv |
 | Weng et al. | [Proof of Unlearning: Definitions and Instantiation](https://arxiv.org/abs/2210.11334) | arXiv |
 | Wu et al. | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv |
 | Yu et al. | [LegoNet: A Fast and Exact Unlearning Architecture](https://arxiv.org/abs/2210.16023) | arXiv |
