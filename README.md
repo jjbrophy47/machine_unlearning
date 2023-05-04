@@ -21,9 +21,11 @@
 |:--------- | ----- | ----- |
 | Chen et al. | [Boundary Unlearning](https://arxiv.org/abs/2303.11570) | CVPR |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
+| Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/abs/2108.11577) | NDSS |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Wang et al. | [Inductive Graph Unlearning](https://arxiv.org/abs/2304.03093) | USENIX Security |
+| Pan et al. | [Unlearning Graph Classifiers with Limited Data Resources](https://dl.acm.org/doi/10.1145/3543507.3583547) | WWW |
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
