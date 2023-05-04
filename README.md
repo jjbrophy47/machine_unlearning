@@ -30,7 +30,7 @@
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
-| Chundawat et al. | [Zero-Shot Machine Unlearning](hhttps://ieeexplore.ieee.org/abstract/document/10097553?casa_token=lJiaqTXbuSgAAAAA:aCe66PZHwYXjfAoLNp5qFQ43ArbBx_SyPjWZ4QII2uWuNJlgt7lM-VK6yszcfrAiY1iRumdu_w) | IEEE Trans. Info. Forensics and Security|
+| Chundawat et al. | [Zero-Shot Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10097553?casa_token=lJiaqTXbuSgAAAAA:aCe66PZHwYXjfAoLNp5qFQ43ArbBx_SyPjWZ4QII2uWuNJlgt7lM-VK6yszcfrAiY1iRumdu_w) | IEEE Trans. Info. Forensics and Security|
 | Tarun et al. | [Fast Yet Effective Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10113700?casa_token=7dFrOAGnBGQAAAAA:6itSHHPr3BdQ8jk3-KaeyujIDB3Xs5ADE38dSOZFuDvFj8NpSrmmi0vnsfIcTJ74HAAh--D_Mg) | IEEE Trans. Neural Net. and Learn. Systems |
 | Zhang et al. | [A Review on Machine Unlearning](https://link.springer.com/article/10.1007/s42979-023-01767-4) | SN Computer Science |
 | | |
