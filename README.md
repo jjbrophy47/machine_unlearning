@@ -30,7 +30,6 @@
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
-| | |
 | Zhang et al. | [A Review on Machine Unlearning](https://link.springer.com/article/10.1007/s42979-023-01767-4) | SN Computer Science |
 | | |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
