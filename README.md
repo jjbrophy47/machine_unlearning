@@ -30,6 +30,8 @@
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
+| Chundawat et al. | [Zero-Shot Machine Unlearning](hhttps://ieeexplore.ieee.org/abstract/document/10097553?casa_token=lJiaqTXbuSgAAAAA:aCe66PZHwYXjfAoLNp5qFQ43ArbBx_SyPjWZ4QII2uWuNJlgt7lM-VK6yszcfrAiY1iRumdu_w) | IEEE Trans. Info. Forensics and Security|
+| Tarun et al. | [Fast Yet Effective Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10113700?casa_token=7dFrOAGnBGQAAAAA:6itSHHPr3BdQ8jk3-KaeyujIDB3Xs5ADE38dSOZFuDvFj8NpSrmmi0vnsfIcTJ74HAAh--D_Mg) | IEEE Trans. Neural Net. and Learn. Systems |
 | Zhang et al. | [A Review on Machine Unlearning](https://link.springer.com/article/10.1007/s42979-023-01767-4) | SN Computer Science |
 | | |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
@@ -109,7 +111,6 @@
 | Carlini et al. | [The Privacy Onion Effect: Memorization is Relative](https://arxiv.org/abs/2206.10469) | arXiv |
 | Chilkuri et al. | [Debugging using Orthogonal Gradient Descent](https://arxiv.org/abs/2206.08489) | arXiv |
 | Chourasia et al. | [Forget Unlearning: Towards True Data-Deletion in Machine Learning](https://arxiv.org/abs/2210.08911) | arXiv |
-| Chundawat et al. | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | IEEE Trans. Info. Forensics and Security|
 | Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://arxiv.org/abs/2205.08096) | AAAI |
 | Cohen et al. | [Control, Confidentiality, and the Right to be Forgotten](https://arxiv.org/abs/2210.07876) | arXiv |
 | Eisenhofer et al. | [Verifiable and Provably Secure Machine Unlearning](https://arxiv.org/abs/2210.09126) | arXiv |
@@ -129,7 +130,6 @@
 | Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
 | Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
 | Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
-| Tarun et al. | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | IEEE Trans. Neural Net. and Learn. Systems |
 | Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | ICML |
 | Weng et al. | [Proof of Unlearning: Definitions and Instantiation](https://arxiv.org/abs/2210.11334) | arXiv |
 | Wu et al. | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv |
