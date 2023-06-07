@@ -19,6 +19,7 @@
 ### 2023
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Floridi | [Machine Unlearning: its nature, scope, and importance for a “delete culture”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4455976) | SSRN |
 | Chen et al. | [Boundary Unlearning](https://arxiv.org/abs/2303.11570) | CVPR |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
 | Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
