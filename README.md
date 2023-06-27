@@ -1,4 +1,4 @@
-# Machine Unlearning Papers
+ # Machine Unlearning Papers
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Github repo stars](https://img.shields.io/github/stars/jjbrophy47/machine_unlearning)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jjbrophy47/machine_unlearning)
@@ -43,6 +43,7 @@
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | arXiv |
 | Jia et al. | [Model Sparsification Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) | arXiv |
+| Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
 | Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
 | Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | arXiv |
 | Li et al. | [Subspace based Federated Unlearning](https://arxiv.org/abs/2302.12448) | arXiv |
@@ -53,6 +54,7 @@
 | Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | arXiv |
 | Tan et al. | [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/abs/2304.02350) | arXiv |
 | Xu et al. | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | arXiv |
+| Yamashita et al. | [One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/abs/2306.05670) | arXiv |
 | Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
 | Zhou et al. | [Audit to Forget: A Unified Method to Revoke Patients' Private Data in Intelligent Healthcare](https://www.biorxiv.org/content/10.1101/2023.02.17.529040v1.abstract) | bioRxiv |
 | Su and Li | [Asynchronous Federated Unlearning](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf) | |
