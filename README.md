@@ -25,6 +25,7 @@
 | Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/abs/2108.11577) | NDSS |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
+| Wu et al. | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/abs/10.1145/3589313) | SIGMOD |
 | Wang et al. | [Inductive Graph Unlearning](https://arxiv.org/abs/2304.03093) | USENIX Security |
 | Pan et al. | [Unlearning Graph Classifiers with Limited Data Resources](https://dl.acm.org/doi/10.1145/3543507.3583547) | WWW |
 | Wu et al. | [GIF: A General Graph Unlearning Strategy via Influence Function](https://dl.acm.org/doi/abs/10.1145/3543507.3583521) | WWW |
@@ -48,6 +49,8 @@
 | Li et al. | [Selective and Collaborative Influence Function for Efficient Recommendation Unlearning](https://arxiv.org/abs/2304.10199) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
 | Poppi et al. | [Multi-Class Explainable Unlearning for Image Classification via Weight Filtering](https://arxiv.org/abs/2304.02049) | arXiv |
+| Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://arxiv.org/abs/2305.07512) | arXiv |
+| Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | arXiv |
 | Tan et al. | [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/abs/2304.02350) | arXiv |
 | Xu et al. | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | arXiv |
 | Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
@@ -87,6 +90,7 @@
 | Cao et al. | [FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://arxiv.org/abs/2210.10936) | S&P |
 | Ganhor et al. | [Unlearning Protected User Attributes in Recommendations with Adversarial Training](https://arxiv.org/abs/2206.04500) | SIGIR |
 |Chen et al. | [Recommendation Unlearning](https://dl.acm.org/doi/abs/10.1145/3485447.3511997) | TheWebConf |
+| Zhou et al. | [Dynamically Selected Mixup Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10063433?casa_token=lNgPOVAtM2kAAAAA:O8cLDZYW-e5OBMizqgfA_3sVV6Pc99Rm2QIr5RzzxHLhHC8CZFNZLRZocTI8VTow5rlAaj7nHw) | TrustCom |
 | Thudi et al. | [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/abs/2110.11891) | USENIX Security |
 | Wang et al. | [Federated Unlearning via Class-Discriminative Pruning](https://arxiv.org/abs/2110.11794) | WWW |
 | | |
