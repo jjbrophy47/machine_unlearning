@@ -2,7 +2,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Github repo stars](https://img.shields.io/github/stars/jjbrophy47/machine_unlearning)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jjbrophy47/machine_unlearning)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=jjbrophy47.machine_unlearning)
 
 [2023](#2023) &nbsp;
 [2022](#2022) &nbsp;
