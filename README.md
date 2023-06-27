@@ -46,6 +46,7 @@
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
 | Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
 | Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | arXiv |
+| Li and Ghosh | [Random Relabeling for Efficient Machine Unlearning](https://arxiv.org/abs/2305.12320) | arXiv |
 | Li et al. | [Subspace based Federated Unlearning](https://arxiv.org/abs/2302.12448) | arXiv |
 | Li et al. | [Selective and Collaborative Influence Function for Efficient Recommendation Unlearning](https://arxiv.org/abs/2304.10199) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
