@@ -18,6 +18,7 @@
 ### 2023
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Lin et al. | [Machine Unlearning in Gradient Boosting Decision Trees](https://dl.acm.org/doi/10.1145/3580305.3599420) | KDD |
 | Wang et al. | [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://dl.acm.org/doi/abs/10.1145/3579856.3590327) | Asia CCS |
 | Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://arxiv.org/abs/2306.15744) | COLT |
 | Chen et al. | [Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Boundary_Unlearning_Rapid_Forgetting_of_Deep_Networks_via_Shifting_the_CVPR_2023_paper.html) | CVPR |
