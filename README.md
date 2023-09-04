@@ -23,6 +23,7 @@
 | Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://arxiv.org/abs/2306.15744) | COLT |
 | Chen et al. | [Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Boundary_Unlearning_Rapid_Forgetting_of_Deep_Networks_via_Shifting_the_CVPR_2023_paper.html) | CVPR |
 | Lin et al. | [ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html) | CVPR |
+| Hagos et al. | [Unlearning Spurious Correlations in Chest X-ray Classification](https://arxiv.org/abs/2308.01119) | Discovery Science |
 | Lin et al. | [Machine Unlearning in Gradient Boosting Decision Trees](https://dl.acm.org/doi/10.1145/3580305.3599420) | KDD |
 | Qian et al. | [Towards Understanding and Enhancing Robustness of Deep Learning Models against Malicious Unlearning Attacks](https://dl.acm.org/doi/abs/10.1145/3580305.3599526) | KDD |
 | Wu et al. | [Certified Edge Unlearning for Graph Neural Networks](https://yue-ning.github.io/docs/kdd23-ceu.pdf) | KDD |
@@ -60,7 +61,6 @@
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | arXiv |
-| Hagos et al. | [Unlearning Spurious Correlations in Chest X-ray Classification](https://arxiv.org/abs/2308.01119) | arXiv |
 | Jia et al. | [Model Sparsification Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
 | Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
