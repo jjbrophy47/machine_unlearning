@@ -18,6 +18,7 @@
 ### 2023
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Zhang et al. | [Machine Unlearning Methodology base on Stochastic Teacher Network](https://arxiv.org/abs/2308.14322) | ADMA |
 | Wang et al. | [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://dl.acm.org/doi/abs/10.1145/3579856.3590327) | Asia CCS |
 | Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://arxiv.org/abs/2306.15744) | COLT |
 | Chen et al. | [Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Boundary_Unlearning_Rapid_Forgetting_of_Deep_Networks_via_Shifting_the_CVPR_2023_paper.html) | CVPR |
@@ -38,6 +39,7 @@
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
 | | |
 | Chen et al. | [Privacy preserving machine unlearning for smart cities](https://link.springer.com/article/10.1007/s12243-023-00960-z) | Annals of Telemcommunications |
+| Deng et al. | [Vertical Federated Unlearning on the Logistic Regression Model](https://www.mdpi.com/2079-9292/12/14/3182) | Electronics |
 | Zeng at al. | [Towards Highly-efficient and Accurate Services QoS Prediction via Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10171348) | IEEE Access |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
 | Chundawat et al. | [Zero-Shot Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10097553?casa_token=lJiaqTXbuSgAAAAA:aCe66PZHwYXjfAoLNp5qFQ43ArbBx_SyPjWZ4QII2uWuNJlgt7lM-VK6yszcfrAiY1iRumdu_w) | IEEE Trans. Info. Forensics and Security |
@@ -67,6 +69,7 @@
 | Li et al. | [Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data](https://arxiv.org/abs/2307.00456) | arXiv |
 | Li et al. | [Federated Unlearning via Active Forgetting](https://arxiv.org/abs/2307.03363) | arXiv |
 | Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://arxiv.org/abs/2307.08122) | arXiv |
+| Liu et al. | [Recommendation Unlearning via Matrix Correction](https://arxiv.org/abs/2307.15960) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
 | Poppi et al. | [Multi-Class Explainable Unlearning for Image Classification via Weight Filtering](https://arxiv.org/abs/2304.02049) | arXiv |
 | Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://arxiv.org/abs/2305.07512) | arXiv |
