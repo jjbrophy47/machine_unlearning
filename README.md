@@ -18,6 +18,10 @@
 ### 2023
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Wang et al. | [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/pdf/2305.06535.pdf) | ACL |
+| Yu et al. | [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375.pdf) | ACL |
+| Koh et al. | [Disposable Transfer Learning for Selective Source Task Unlearning](https://arxiv.org/pdf/2308.09971.pdf) | arXiv |
+| Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/pdf/2309.00886.pdf) | arXiv |
 | Zhang et al. | [Machine Unlearning Methodology base on Stochastic Teacher Network](https://arxiv.org/abs/2308.14322) | ADMA |
 | Wang et al. | [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://dl.acm.org/doi/abs/10.1145/3579856.3590327) | Asia CCS |
 | Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://arxiv.org/abs/2306.15744) | COLT |
