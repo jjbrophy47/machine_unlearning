@@ -20,8 +20,6 @@
 |:--------- | ----- | ----- |
 | Wang et al. | [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/pdf/2305.06535.pdf) | ACL |
 | Yu et al. | [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375.pdf) | ACL |
-| Koh et al. | [Disposable Transfer Learning for Selective Source Task Unlearning](https://arxiv.org/pdf/2308.09971.pdf) | arXiv |
-| Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/pdf/2309.00886.pdf) | arXiv |
 | Zhang et al. | [Machine Unlearning Methodology base on Stochastic Teacher Network](https://arxiv.org/abs/2308.14322) | ADMA |
 | Wang et al. | [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://dl.acm.org/doi/abs/10.1145/3579856.3590327) | Asia CCS |
 | Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://arxiv.org/abs/2306.15744) | COLT |
@@ -65,8 +63,10 @@
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | arXiv |
+| Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/pdf/2309.00886.pdf) | arXiv |
 | Jia et al. | [Model Sparsification Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
+| Koh et al. | [Disposable Transfer Learning for Selective Source Task Unlearning](https://arxiv.org/pdf/2308.09971.pdf) | arXiv |
 | Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
 | Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | arXiv |
 | LeBlond et al. | [Probing the Transition to Dataset-Level Privacy in ML Models Using an Output-Specific and Data-Resolved Privacy Profile](https://arxiv.org/abs/2306.15790) | arXiv |
