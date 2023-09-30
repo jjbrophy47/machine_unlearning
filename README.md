@@ -85,6 +85,7 @@
 | Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://arxiv.org/abs/2305.07512) | arXiv |
 | Ramachandra and Sethi | [Machine Unlearning for Causal Inference](https://arxiv.org/abs/2308.13559) | arXiv |
 | Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | arXiv |
+| Shaik et al. | [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://arxiv.org/abs/2309.10283) | arXiv |
 | Sun et al. | [Generative Adversarial Networks Unlearning](https://arxiv.org/abs/2308.09881) | arXiv |
 | Tan et al. | [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/abs/2304.02350) | arXiv |
 | Tiwary et al. | [Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks](https://arxiv.org/abs/2309.14054) | arXiv |
