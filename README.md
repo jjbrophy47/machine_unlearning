@@ -32,11 +32,14 @@
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
 | Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
 | Che et al. | [Fast Federated Machine Unlearning with Nonlinear Functional Theory](https://openreview.net/forum?id=6wQKmKiDHw) | ICML |
+| Hu et al. | [A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services](https://arxiv.org/abs/2309.08230) | NDSS |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/abs/2108.11577) | NDSS |
+| Leysen | [Exploring Unlearning Methods to Ensure the Privacy, Security, and Usability of Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3604915.3608862?casa_token=gf7H1bpjdYoAAAAA:133RDRcYB5BKrUgtIDHKzddEMIwqcPKbr22LILZNBNmzshoWrEy1JAWbNqb6-iKRWtxX0rtVM2K3) | RecSys |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Schelter et al. | [Forget Me Now: Fast and Exact Unlearning in Neighborhood-based Recommendation](https://ssc.io/pdf/caboose.pdf) | SIGIR |
 | Wu et al. | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/abs/10.1145/3589313) | SIGMOD |
 | Wang et al. | [Inductive Graph Unlearning](https://arxiv.org/abs/2304.03093) | USENIX Security |
+| Sun et al. | [Lazy Machine Unlearning Strategy for Random Forests](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_32) | WISA |
 | Pan et al. | [Unlearning Graph Classifiers with Limited Data Resources](https://dl.acm.org/doi/10.1145/3543507.3583547) | WWW |
 | Wu et al. | [GIF: A General Graph Unlearning Strategy via Influence Function](https://dl.acm.org/doi/abs/10.1145/3543507.3583521) | WWW |
 | Zhu et al. | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | WWW |
@@ -93,8 +96,9 @@
 | Zhang et al. | [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941) | arXiv |
 | Zhou et al. | [Audit to Forget: A Unified Method to Revoke Patients' Private Data in Intelligent Healthcare](https://www.biorxiv.org/content/10.1101/2023.02.17.529040v1.abstract) | bioRxiv |
 | Jahanian et al. | [Protecting the Neural Networks against FGSM Attack Using Machine Unlearning](https://www.researchsquare.com/article/rs-3239986/v1) | Research Square |
-| Su and Li | [Asynchronous Federated Unlearning](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf) | |
 | Fan | [Machine learning and unlearning for IoT anomaly detection](http://dspace.library.uvic.ca/handle/1828/14962) | |
+| Su and Li | [Asynchronous Federated Unlearning](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf) | |
+| Xiong et al. | [Exact-Fun: An Exact and Efficient Federated Unlearning Approach](https://zuobinxiong.github.io/assets/pdf/ExactFedUnlearning.pdf) | |
 
 ### 2022
 | Author(s) | Title | Venue |
