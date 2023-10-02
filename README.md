@@ -18,6 +18,13 @@
 ### 2023
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | NeurIPS |
+| Chen et al.| [Test-time Model DeBias Via Machine Unlearning](https://neurips.cc/virtual/2023/poster/72485) | NeurIPS |
+| Li et al. | [UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition](https://neurips.cc/virtual/2023/poster/72617) | NeurIPS |
+| Liu et al. | [Certified Minimax Unlearning with Generalization Rates and Deletion Capacity](https://neurips.cc/virtual/2023/poster/72765) | NeurIPS |
+| Jia et al. | [Model Sparsification Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) | NeurIPS |
+| Wei et al. | [Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples](https://neurips.cc/virtual/2023/poster/69874) | NeurIPS |
+| Di et al. | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://neurips.cc/virtual/2023/poster/72092) | NeurIPS |
 | Wang et al. | [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535) | ACL |
 | Yu et al. | [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375.pdf) | ACL |
 | Zhang et al. | [Machine Unlearning Methodology base on Stochastic Teacher Network](https://arxiv.org/abs/2308.14322) | ADMA |
@@ -67,11 +74,9 @@
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | arXiv |
 | Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | arXiv |
-| Jia et al. | [Model Sparsification Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
 | Koh et al. | [Disposable Transfer Learning for Selective Source Task Unlearning](https://arxiv.org/abs/2308.09971) | arXiv |
 | Krishna et al. | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | arXiv |
-| Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | arXiv |
 | LeBlond et al. | [Probing the Transition to Dataset-Level Privacy in ML Models Using an Output-Specific and Data-Resolved Privacy Profile](https://arxiv.org/abs/2306.15790) | arXiv |
 | Li and Ghosh | [Random Relabeling for Efficient Machine Unlearning](https://arxiv.org/abs/2305.12320) | arXiv |
 | Li et al. | [Subspace based Federated Unlearning](https://arxiv.org/abs/2302.12448) | arXiv |
