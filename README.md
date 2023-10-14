@@ -73,7 +73,7 @@
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
 | Cong and Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | arXiv |
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
-| Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/pdf/2310.02238.pdf) | arXiv |
+| Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | arXiv |
 | Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | arXiv |
@@ -89,7 +89,7 @@
 | Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://arxiv.org/abs/2307.08122) | arXiv |
 | Liu et al. | [Recommendation Unlearning via Matrix Correction](https://arxiv.org/abs/2307.15960) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
-| Pawelczyk et al. | [In-Context Unlearning: Language Models As Few Shot Unlearners](https://arxiv.org/pdf/2310.07579.pdf) | arXiv |
+| Pawelczyk et al. | [In-Context Unlearning: Language Models As Few Shot Unlearners](https://arxiv.org/abs/2310.07579) | arXiv |
 | Poppi et al. | [Multi-Class Explainable Unlearning for Image Classification via Weight Filtering](https://arxiv.org/abs/2304.02049) | arXiv |
 | Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://arxiv.org/abs/2305.07512) | arXiv |
 | Ramachandra and Sethi | [Machine Unlearning for Causal Inference](https://arxiv.org/abs/2308.13559) | arXiv |
