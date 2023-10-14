@@ -29,6 +29,7 @@
 | Lin et al. | [Machine Unlearning in Gradient Boosting Decision Trees](https://dl.acm.org/doi/10.1145/3580305.3599420) | KDD |
 | Qian et al. | [Towards Understanding and Enhancing Robustness of Deep Learning Models against Malicious Unlearning Attacks](https://dl.acm.org/doi/abs/10.1145/3580305.3599526) | KDD |
 | Wu et al. | [Certified Edge Unlearning for Graph Neural Networks](https://yue-ning.github.io/docs/kdd23-ceu.pdf) | KDD |
+| Liu et al. | [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | ICCV |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
 | Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
 | Che et al. | [Fast Federated Machine Unlearning with Nonlinear Functional Theory](https://openreview.net/forum?id=6wQKmKiDHw) | ICML |
