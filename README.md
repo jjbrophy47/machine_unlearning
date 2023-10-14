@@ -47,6 +47,7 @@
 | Schelter et al. | [Forget Me Now: Fast and Exact Unlearning in Neighborhood-based Recommendation](https://ssc.io/pdf/caboose.pdf) | SIGIR |
 | Wu et al. | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/abs/10.1145/3589313) | SIGMOD |
 | Wang et al. | [Inductive Graph Unlearning](https://arxiv.org/abs/2304.03093) | USENIX Security |
+| Xia et al. | [Equitable Data Valuation Meets the Right to Be Forgotten in Model Markets](https://www.vldb.org/pvldb/vol16/p3349-liu.pdf) | VLDB |
 | Sun et al. | [Lazy Machine Unlearning Strategy for Random Forests](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_32) | WISA |
 | Pan et al. | [Unlearning Graph Classifiers with Limited Data Resources](https://dl.acm.org/doi/10.1145/3543507.3583547) | WWW |
 | Wu et al. | [GIF: A General Graph Unlearning Strategy via Influence Function](https://dl.acm.org/doi/abs/10.1145/3543507.3583521) | WWW |
