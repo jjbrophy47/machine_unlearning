@@ -22,11 +22,13 @@
 | Yu et al. | [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375.pdf) | ACL |
 | Zhang et al. | [Machine Unlearning Methodology base on Stochastic Teacher Network](https://arxiv.org/abs/2308.14322) | ADMA |
 | Wang et al. | [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://dl.acm.org/doi/abs/10.1145/3579856.3590327) | Asia CCS |
+| Lee and Woo | [UNDO: Effective and Accurate Unlearning Method for Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3583780.3615235?casa_token=-nyxssmE9b0AAAAA:dpYILftUNiAz5Bh7hrr95SNjYKj61yVYb3kIIv8v5rXDyKNdn1xWYdovqkYrQG9AxbL6P-eah9En) | CIKM |
 | Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://arxiv.org/abs/2306.15744) | COLT |
 | Chen et al. | [Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Boundary_Unlearning_Rapid_Forgetting_of_Deep_Networks_via_Shifting_the_CVPR_2023_paper.html) | CVPR |
 | Lin et al. | [ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html) | CVPR |
 | Hagos et al. | [Unlearning Spurious Correlations in Chest X-ray Classification](https://arxiv.org/abs/2308.01119) | Discovery Science |
 | Liu et al. | [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | ICCV |
+| Zheng et al. | [Graph Unlearning Using Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-981-99-7356-9_29) | ICICS |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
 | Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
 | Che et al. | [Fast Federated Machine Unlearning with Nonlinear Functional Theory](https://openreview.net/forum?id=6wQKmKiDHw) | ICML |
@@ -57,6 +59,7 @@
 | Zhang et al. | [Machine Unlearning by Reversing the Continual Learning](https://www.mdpi.com/2076-3417/13/16/9341) | Applied Sciences |
 | Deng et al. | [Vertical Federated Unlearning on the Logistic Regression Model](https://www.mdpi.com/2079-9292/12/14/3182) | Electronics |
 | Zeng at al. | [Towards Highly-efficient and Accurate Services QoS Prediction via Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10171348) | IEEE Access |
+| Zhao et al. | [Federated Unlearning With Momentum Degradation](https://ieeexplore.ieee.org/abstract/document/10269017?casa_token=Lk5378AkwaoAAAAA:i_KUf5hO1pdYtnnOxkX6SUO-QvICIs48m2RNK45hz6vkcF8FHY9R5jIF56pcnFdXkZJzrSax1w) | IEEE IOT Journal |
 | Xia et al. | [FedME2: Memory Evaluation & Erase Promoting Federated Unlearning in DTMN](https://ieeexplore.ieee.org/abstract/document/10234397?casa_token=B7ZLOqWtAsEAAAAA:rv_j5JuHFyFgKw3v7f7-aRPyhWQZFfHD_IxC84xObXsB54wn30_Cy1l7t72qG2ubfrQtkWKutw) | IEEE Selected Areas in Communications |
 | Zhang et al. | [Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10002349?casa_token=ZxD2jHH8zJsAAAAA:_tuHzhnRtrBXqhy4YBHFfHQfYe-8Lex2RqXXCQN2KYGGq5G8vo9m279GRvcVVPWT1h3w-vd-Ug) | IEEE Trans. on Comm. |
 | Chundawat et al. | [Zero-Shot Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/10097553?casa_token=lJiaqTXbuSgAAAAA:aCe66PZHwYXjfAoLNp5qFQ43ArbBx_SyPjWZ4QII2uWuNJlgt7lM-VK6yszcfrAiY1iRumdu_w) | IEEE Trans. Info. Forensics and Security |
@@ -72,6 +75,7 @@
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
 | Chen et al. | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150) | arXiv |
+| Chen et al. | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | arXiv |
 | Cong and Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | arXiv |
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
@@ -97,6 +101,7 @@
 | Ramachandra and Sethi | [Machine Unlearning for Causal Inference](https://arxiv.org/abs/2308.13559) | arXiv |
 | Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | arXiv |
 | Shaik et al. | [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://arxiv.org/abs/2309.10283) | arXiv |
+| Sinha et al. | [Distill to Delete: Unlearning in Graph Networks with Knowledge Distillation](https://arxiv.org/abs/2309.16173) | arXiv |
 | Sun et al. | [Generative Adversarial Networks Unlearning](https://arxiv.org/abs/2308.09881) | arXiv |
 | Tan et al. | [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/abs/2304.02350) | arXiv |
 | Tiwary et al. | [Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks](https://arxiv.org/abs/2309.14054) | arXiv |
@@ -190,6 +195,7 @@
 | Nguyen et al. | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | arXiv |
 | Pan et al. | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | arXiv |
 | Pan et al. | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | arXiv |
+| Said et al. | [A Survey of Graph Unlearning](https://arxiv.org/abs/2310.02164) | arXiv |
 | Tarun et al. | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | ICML |
 | Weng et al. | [Proof of Unlearning: Definitions and Instantiation](https://arxiv.org/abs/2210.11334) | arXiv |
 | Wu et al. | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv |
