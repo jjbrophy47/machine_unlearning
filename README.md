@@ -77,6 +77,12 @@
 | Llamas et al. | [Effective Machine Learning-based Access Control Administration through Unlearning](https://ieeexplore.ieee.org/abstract/document/10190682?casa_token=ejAyrscJ-vwAAAAA:o0Ud_9o0VDeiHsjUoteVzt1AbOaAUgN6AKepATztFdfSfWMgKugrNG7sLP9Hcyia013w72Mj) | EuroS&PW |
 | Bae et al. | [Gradient Surgery for One-shot Unlearning on Generative Model](https://arxiv.org/abs/2307.04550) | Generative AI & LAW Workshop |
 | | |
+| Shah et al. | [Unlearning via Sparse Representations](https://arxiv.org/abs/2304.04934) | arXiv |
+| Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/pdf/2310.12508v2.pdf) | arXiv |
+| Shi et al. | [DeepClean: Machine Unlearning on the Cheap by Resetting Privacy Sensitive Weights using the Fisher Diagonal](https://arxiv.org/abs/2311.10448) | arXiv |
+| Abbasi et al. | [BRAINWASH: A POISONING ATTACK TO FORGET IN CONTINUAL LEARNING](https://arxiv.org/pdf/2311.11995.pdf)
+| Abbasi et al. | [COVARNAV: MACHINE UNLEARNING VIA MODEL INVERSION AND COVARIANCE NAVIGATION](https://arxiv.org/pdf/2311.12999.pdf) | arXiv |
+| Cheng et al. | [Multimodal Machine Unlearning](https://arxiv.org/pdf/2311.12047.pdf) | arXiv |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
 | Cai et al. | [Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation](https://arxiv.org/abs/2310.18606) | arXiv |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
