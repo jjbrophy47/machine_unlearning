@@ -27,8 +27,8 @@
 | Chen et al. | [Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Boundary_Unlearning_Rapid_Forgetting_of_Deep_Networks_via_Shifting_the_CVPR_2023_paper.html) | CVPR |
 | Lin et al. | [ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html) | CVPR |
 | Hagos et al. | [Unlearning Spurious Correlations in Chest X-ray Classification](https://arxiv.org/abs/2308.01119) | Discovery Science |
-| Liu et al. | [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | ICCV |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.pdf) | ICCV |
+| Liu et al. | [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | ICCV |
 | Zheng et al. | [Graph Unlearning Using Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-981-99-7356-9_29) | ICICS |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
 | Chien et al. | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL) | ICLR |
@@ -77,20 +77,18 @@
 | Llamas et al. | [Effective Machine Learning-based Access Control Administration through Unlearning](https://ieeexplore.ieee.org/abstract/document/10190682?casa_token=ejAyrscJ-vwAAAAA:o0Ud_9o0VDeiHsjUoteVzt1AbOaAUgN6AKepATztFdfSfWMgKugrNG7sLP9Hcyia013w72Mj) | EuroS&PW |
 | Bae et al. | [Gradient Surgery for One-shot Unlearning on Generative Model](https://arxiv.org/abs/2307.04550) | Generative AI & LAW Workshop |
 | | |
-| Shah et al. | [Unlearning via Sparse Representations](https://arxiv.org/abs/2304.04934) | arXiv |
-| Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/pdf/2310.12508v2.pdf) | arXiv |
-| Shi et al. | [DeepClean: Machine Unlearning on the Cheap by Resetting Privacy Sensitive Weights using the Fisher Diagonal](https://arxiv.org/abs/2311.10448) | arXiv |
-| Abbasi et al. | [BRAINWASH: A POISONING ATTACK TO FORGET IN CONTINUAL LEARNING](https://arxiv.org/pdf/2311.11995.pdf)
-| Abbasi et al. | [COVARNAV: MACHINE UNLEARNING VIA MODEL INVERSION AND COVARIANCE NAVIGATION](https://arxiv.org/pdf/2311.12999.pdf) | arXiv |
-| Cheng et al. | [Multimodal Machine Unlearning](https://arxiv.org/pdf/2311.12047.pdf) | arXiv |
+| Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995)
+| Abbasi et al. | [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | arXiv |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
 | Cai et al. | [Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation](https://arxiv.org/abs/2310.18606) | arXiv |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
 | Chen et al. | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150) | arXiv |
 | Chen et al. | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | arXiv |
+| Cheng et al. | [Multimodal Machine Unlearning](https://arxiv.org/abs/2311.12047) | arXiv |
 | Cong and Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | arXiv |
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
+| Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
 | Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
@@ -111,8 +109,10 @@
 | Poppi et al. | [Multi-Class Explainable Unlearning for Image Classification via Weight Filtering](https://arxiv.org/abs/2304.02049) | arXiv |
 | Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://arxiv.org/abs/2305.07512) | arXiv |
 | Ramachandra and Sethi | [Machine Unlearning for Causal Inference](https://arxiv.org/abs/2308.13559) | arXiv |
+| Shah et al. | [Unlearning via Sparse Representations](https://arxiv.org/abs/2304.04934) | arXiv |
 | Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | arXiv |
 | Shaik et al. | [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://arxiv.org/abs/2309.10283) | arXiv |
+| Shi et al. | [DeepClean: Machine Unlearning on the Cheap by Resetting Privacy Sensitive Weights using the Fisher Diagonal](https://arxiv.org/abs/2311.10448) | arXiv |
 | Shi et al. | [Detecting Pretraining Data from Large Language Models](https://arxiv.org/abs/2310.16789) | arXiv |
 | Sinha et al. | [Distill to Delete: Unlearning in Graph Networks with Knowledge Distillation](https://arxiv.org/abs/2309.16173) | arXiv |
 | Sun et al. | [Generative Adversarial Networks Unlearning](https://arxiv.org/abs/2308.09881) | arXiv |
@@ -126,7 +126,6 @@
 | Zhang et al. | [Recommendation Unlearning via Influence Function](https://arxiv.org/abs/2307.02147) | arXiv |
 | Zhang et al. | [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941) | arXiv |
 | Zhang et al. | [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868) | arXiv |
-| Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | arXiv |
 | Zhou et al. | [Audit to Forget: A Unified Method to Revoke Patients' Private Data in Intelligent Healthcare](https://www.biorxiv.org/content/10.1101/2023.02.17.529040v1.abstract) | bioRxiv |
 | Jahanian et al. | [Protecting the Neural Networks against FGSM Attack Using Machine Unlearning](https://www.researchsquare.com/article/rs-3239986/v1) | Research Square |
 | Fan | [Machine learning and unlearning for IoT anomaly detection](http://dspace.library.uvic.ca/handle/1828/14962) | |
