@@ -39,8 +39,8 @@
 | Li et al. | [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612418) | MM |
 | Hu et al. | [A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services](https://arxiv.org/abs/2309.08230) | NDSS |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/abs/2108.11577) | NDSS |
+| Chen et al. | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | NeurIPS |
 | Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | NeurIPS |
-| Chen et al.| [Test-time Model DeBias Via Machine Unlearning](https://neurips.cc/virtual/2023/poster/72485) | NeurIPS |
 | Li et al. | [UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition](https://neurips.cc/virtual/2023/poster/72617) | NeurIPS |
 | Liu et al. | [Certified Minimax Unlearning with Generalization Rates and Deletion Capacity](https://neurips.cc/virtual/2023/poster/72765) | NeurIPS |
 | Jia et al. | [Model Sparsification Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) | NeurIPS |
@@ -88,7 +88,6 @@
 | Cai et al. | [Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation](https://arxiv.org/abs/2310.18606) | arXiv |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | arXiv |
 | Chen et al. | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150) | arXiv |
-| Chen et al. | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | arXiv |
 | Cheng et al. | [Multimodal Machine Unlearning](https://arxiv.org/abs/2311.12047) | arXiv |
 | Cong and Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | arXiv |
 | Cotogni et al. | [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/abs/2312.02052) | arXiv |
