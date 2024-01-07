@@ -3,6 +3,7 @@
 ![Github repo stars](https://img.shields.io/github/stars/jjbrophy47/machine_unlearning)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jjbrophy47/machine_unlearning)
 
+[2024](#2024) &nbsp;
 [2023](#2023) &nbsp;
 [2022](#2022) &nbsp;
 [2021](#2021) &nbsp;
