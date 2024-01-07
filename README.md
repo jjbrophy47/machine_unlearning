@@ -50,7 +50,7 @@
 | Leysen | [Exploring Unlearning Methods to Ensure the Privacy, Security, and Usability of Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3604915.3608862?casa_token=gf7H1bpjdYoAAAAA:133RDRcYB5BKrUgtIDHKzddEMIwqcPKbr22LILZNBNmzshoWrEy1JAWbNqb6-iKRWtxX0rtVM2K3) | RecSys |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Schelter et al. | [Forget Me Now: Fast and Exact Unlearning in Neighborhood-based Recommendation](https://ssc.io/pdf/caboose.pdf) | SIGIR |
-| Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276.pdf) | SIGMOD |
+| Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
 | Wu et al. | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/abs/10.1145/3589313) | SIGMOD |
 | Wang et al. | [Inductive Graph Unlearning](https://arxiv.org/abs/2304.03093) | USENIX Security |
 | Xia et al. | [Equitable Data Valuation Meets the Right to Be Forgotten in Model Markets](https://www.vldb.org/pvldb/vol16/p3349-liu.pdf) | VLDB |
@@ -78,9 +78,8 @@
 | Llamas et al. | [Effective Machine Learning-based Access Control Administration through Unlearning](https://ieeexplore.ieee.org/abstract/document/10190682?casa_token=ejAyrscJ-vwAAAAA:o0Ud_9o0VDeiHsjUoteVzt1AbOaAUgN6AKepATztFdfSfWMgKugrNG7sLP9Hcyia013w72Mj) | EuroS&PW |
 | Bae et al. | [Gradient Surgery for One-shot Unlearning on Generative Model](https://arxiv.org/abs/2307.04550) | Generative AI & LAW Workshop |
 | | |
-| Cotogni et al. | [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/pdf/2312.02052.pdf) | arXiv |
-| Kodge et al. | [DEEP UNLEARNING: FAST AND EFFICIENT TRAININGFREE APPROACH TO CONTROLLED FORGETTING](https://arxiv.org/pdf/2312.00761.pdf) | arXiv |
-| Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995) |arXiv |
+| Kodge et al. | [Deep Unlearning: Fast and Efficient Training Free Approach to Controlled Forgetting](https://arxiv.org/abs/2312.00761) | arXiv |
+| Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995) | arXiv |
 | Abbasi et al. | [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | arXiv |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
 | Cai et al. | [Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation](https://arxiv.org/abs/2310.18606) | arXiv |
@@ -89,6 +88,7 @@
 | Chen et al. | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | arXiv |
 | Cheng et al. | [Multimodal Machine Unlearning](https://arxiv.org/abs/2311.12047) | arXiv |
 | Cong and Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | arXiv |
+| Cotogni et al. | [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/abs/2312.02052) | arXiv |
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | arXiv |
