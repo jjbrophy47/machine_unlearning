@@ -19,6 +19,10 @@
 ### 2024
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | AAAI |
+| Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | AAAI |
+| Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | AAAI |
+| Li et al. | [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | AAAI |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM) | ICLR |
 | Liu et al. | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
 | | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
