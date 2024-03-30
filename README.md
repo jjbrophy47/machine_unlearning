@@ -40,6 +40,7 @@
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
 | Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/pdf/2401.05146.pdf) | arXiv |
 | Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/pdf/2401.05779.pdf) | arXiv |
+| Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf) | arXiv |
 | Zuo et al. | [Machine unlearning through fine-grained model parameters perturbation](https://arxiv.org/abs/2401.04385) | arXiv |
 
 ### 2023
