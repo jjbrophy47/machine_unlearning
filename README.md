@@ -19,6 +19,7 @@
 ### 2024
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Hu et al. | [ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach](https://arxiv.org/abs/2311.16136) | CCS |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | AAAI |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | AAAI |
 | Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | AAAI |
