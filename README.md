@@ -36,6 +36,7 @@
 | | |
 | Li et al. | [Pseudo Unlearning via Sample Swapping with Hash](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000483?via%3Dihub) | Information Science |
 | | |
+| Fan et al. | [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| arXiv |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
 | Maini et al. | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) | arXiv |
 | Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998#:~:text=In%20response%20to%20this%20critical,parameters%20and%20rendering%20them%20unlearnable.) | arXiv |
