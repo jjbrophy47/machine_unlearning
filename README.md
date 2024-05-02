@@ -120,7 +120,6 @@
 | Llamas et al. | [Effective Machine Learning-based Access Control Administration through Unlearning](https://ieeexplore.ieee.org/abstract/document/10190682?casa_token=ejAyrscJ-vwAAAAA:o0Ud_9o0VDeiHsjUoteVzt1AbOaAUgN6AKepATztFdfSfWMgKugrNG7sLP9Hcyia013w72Mj) | EuroS&PW |
 | Bae et al. | [Gradient Surgery for One-shot Unlearning on Generative Model](https://arxiv.org/abs/2307.04550) | Generative AI & LAW Workshop |
 | | |
-| Kodge et al. | [Deep Unlearning: Fast and Efficient Training Free Approach to Controlled Forgetting](https://arxiv.org/abs/2312.00761) | arXiv |
 | Abbasi et al. | [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | arXiv |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
 | Bother et al. | [Modyn: A Platform for Model Training on Dynamic Datasets With Sample-Level Data Selection](https://arxiv.org/abs/2312.06254) | arXiv |
@@ -135,6 +134,7 @@
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
+| Hong et al. | [All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2312.12807) | arXiv |
 | Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | arXiv |
 | Huang et al. | [Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers](https://arxiv.org/abs/2311.17717) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
