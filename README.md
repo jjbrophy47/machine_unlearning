@@ -41,11 +41,11 @@
 | Maini et al. | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) | arXiv |
 | Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239) | arXiv |
 | Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998) | arXiv |
-| Liu et al. | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2402.08787) | arXiv |
+| Liu et al. | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787) | arXiv |
 | Pham et al. | [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631) | arXiv |
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
-| Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/pdf/2401.05146.pdf) | arXiv |
-| Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/pdf/2401.05779.pdf) | arXiv |
+| Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/abs/2401.05146) | arXiv |
+| Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/abs/2401.05779) | arXiv |
 | Wu et al. | [Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks](https://arxiv.org/abs/2401.06187) | arXiv |
 | Yao et al. | [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159) | arXiv |
 | Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | arXiv |
@@ -303,7 +303,7 @@
 | Shibata et al. | [Learning with Selective Forgetting](https://www.ijcai.org/proceedings/2021/0137.pdf) | IJCAI |
 | Liu et al. | [Federated Unlearning](https://arxiv.org/abs/2012.13891) | IWQoS |
 | Huang et al. | [EMA: Auditing Data Removal from Trained Models](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_76) | MICCAI |
-| Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf) | NeurIPS |
+| Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/abs/2106.04378) | NeurIPS |
 | Khan and Swaroop | [Knowledge-Adaptation Priors](https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html) | NeurIPS |
 | Sekhari et al. | [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279) | NeurIPS |
 | Liu et al. | [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274) | IWQoS |
