@@ -135,6 +135,7 @@
 | Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
 | Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | arXiv |
+| Huang et al. | [Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers](https://arxiv.org/abs/2311.17717) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
 | Kim et al. | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | arXiv |
 | Kodge et al. | [Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting](https://arxiv.org/abs/2312.00761) | arXiv |
