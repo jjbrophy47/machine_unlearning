@@ -154,6 +154,7 @@
 | Liu et al. | [Implicit Concept Removal of Diffusion Models](https://arxiv.org/abs/2310.05873) | arXiv |
 | Liu et al. | [Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning](https://arxiv.org/abs/2310.18574) | arXiv |
 | Liu et al. | [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2310.20448) | arXiv |
+| Lyu et al. | [One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications](https://arxiv.org/abs/2312.16145) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
 | Panda and AP | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | arXiv |
 | Pawelczyk et al. | [In-Context Unlearning: Language Models As Few Shot Unlearners](https://arxiv.org/abs/2310.07579) | arXiv |
