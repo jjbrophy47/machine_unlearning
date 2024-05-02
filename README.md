@@ -28,9 +28,9 @@
 | Wang et al. | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/abs/2401.13410) | ECIR |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM) | ICLR |
 | Liu et al. | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
-| | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
-| | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
-| | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
+| Li et al. | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
+| Shen et al. | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
+| Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
 | Hoang et al. | [Learn To Unlearn for Deep Neural Networks: Minimizing Unlearning Interference With Gradient Projection](https://openaccess.thecvf.com/content/WACV2024/html/Hoang_Learn_To_Unlearn_for_Deep_Neural_Networks_Minimizing_Unlearning_Interference_WACV_2024_paper.html) | WACV |
 | | |
