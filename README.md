@@ -41,6 +41,7 @@
 | Maini et al. | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) | arXiv |
 | Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239) | arXiv |
 | Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998) | arXiv |
+| Liu et al. | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2402.08787) | arXiv |
 | Pham et al. | [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631) | arXiv |
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
 | Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/pdf/2401.05146.pdf) | arXiv |
