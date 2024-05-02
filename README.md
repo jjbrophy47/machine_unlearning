@@ -151,6 +151,7 @@
 | Li et al. | [Federated Unlearning via Active Forgetting](https://arxiv.org/abs/2307.03363) | arXiv |
 | Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://arxiv.org/abs/2307.08122) | arXiv |
 | Liu et al. | [Recommendation Unlearning via Matrix Correction](https://arxiv.org/abs/2307.15960) | arXiv |
+| Liu et al. | [Implicit Concept Removal of Diffusion Models](https://arxiv.org/abs/2310.05873) | arXiv |
 | Liu et al. | [Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning](https://arxiv.org/abs/2310.18574) | arXiv |
 | Liu et al. | [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2310.20448) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
