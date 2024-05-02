@@ -178,6 +178,7 @@
 | Xu et al. | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | arXiv |
 | Xu and Teng | [Task-Aware Machine Unlearning and Its Application in Load Forecasting](https://arxiv.org/abs/2308.14412) | arXiv |
 | Yamashita et al. | [One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/abs/2306.05670) | arXiv |
+| Yao et al. | [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683) | arXiv |
 | Ye et al. | [Reinforcement Unlearning](https://arxiv.org/abs/2312.15910) | arXiv |
 | Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
 | Zhang et al. | [Recommendation Unlearning via Influence Function](https://arxiv.org/abs/2307.02147) | arXiv |
