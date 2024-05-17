@@ -23,6 +23,10 @@
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | AAAI |
 | Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | AAAI |
 | Li et al. | [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | AAAI |
+| Liu et al. | [Backdoor Attacks via Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/29321) | AAAI |
+| You et al. | [RRL: Recommendation Reverse Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28782) | AAAI |
+| Alshehri and Zhang | [Forgetting User Preference in Recommendation Systems with Label-Flipping](https://ieeexplore.ieee.org/abstract/document/10386603/authors#authors) | BigData |
+| Yang and Li | [When Contrastive Learning Meets Graph Unlearning: Graph Contrastive Unlearning for Link Prediction](https://ieeexplore.ieee.org/abstract/document/10386624?casa_token=Bjay4FnV6nsAAAAA:ELDmygCAnGPf0IPUL5BBApBE7oJauAxYMGUkWZlWMHIqYVGk7dksuZ_Ui-ahThfHYe3Kbgb4xw) | BigData |
 | Hu et al. | [ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach](https://arxiv.org/abs/2311.16136) | CCS |
 | Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995) | CVPR |
 | Wang et al. | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/abs/2401.13410) | ECIR |
@@ -32,7 +36,10 @@
 | Shen et al. | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
 | Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
+| Shen et al. | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.89) | SDM |
 | Hoang et al. | [Learn To Unlearn for Deep Neural Networks: Minimizing Unlearning Interference With Gradient Projection](https://openaccess.thecvf.com/content/WACV2024/html/Hoang_Learn_To_Unlearn_for_Deep_Neural_Networks_Minimizing_Unlearning_Interference_WACV_2024_paper.html) | WACV |
+| Xin et al. | [On the Effectiveness of Unlearning in Session-Based Recommendation](https://dl.acm.org/doi/abs/10.1145/3616855.3635823) | WSDM |
+| Zhang | [Graph Unlearning with Efficient Partial Retraining](https://dl.acm.org/doi/abs/10.1145/3589335.3651265) | WWW |
 | | |
 | Li et al. | [Pseudo Unlearning via Sample Swapping with Hash](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000483?via%3Dihub) | Information Science |
 | | |
