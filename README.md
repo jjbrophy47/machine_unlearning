@@ -31,7 +31,7 @@
 | Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995) | CVPR |
 | Wang et al. | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/abs/2401.13410) | ECIR |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM) | ICLR |
-| Liu et al. | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
+| Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
 | Li et al. | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
 | Shen et al. | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
 | Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
