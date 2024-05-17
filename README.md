@@ -34,6 +34,7 @@
 | Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
 | Li et al. | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
 | Shen et al. | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
+| Tsai et al. | [Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?](https://arxiv.org/abs/2310.10012) | ICLR |
 | Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
 | Shen et al. | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.89) | SDM |
