@@ -28,9 +28,9 @@
 | Wang et al. | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/abs/2401.13410) | ECIR |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM) | ICLR |
 | Liu et al. | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
-| | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
-| | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
-| | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
+| Li et al. | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | ICLR |
+| Shen et al. | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://openreview.net/forum?id=SIZWiya7FE) | ICLR |
+| Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
 | Hoang et al. | [Learn To Unlearn for Deep Neural Networks: Minimizing Unlearning Interference With Gradient Projection](https://openaccess.thecvf.com/content/WACV2024/html/Hoang_Learn_To_Unlearn_for_Deep_Neural_Networks_Minimizing_Unlearning_Interference_WACV_2024_paper.html) | WACV |
 | | |
@@ -39,11 +39,17 @@
 | Fan et al. | [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| arXiv |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
 | Maini et al. | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) | arXiv |
-| Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998#:~:text=In%20response%20to%20this%20critical,parameters%20and%20rendering%20them%20unlearnable.) | arXiv |
+| Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239) | arXiv |
+| Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998) | arXiv |
+| Liu et al. | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787) | arXiv |
+| Pham et al. | [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631) | arXiv |
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
-| Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/pdf/2401.05146.pdf) | arXiv |
-| Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/pdf/2401.05779.pdf) | arXiv |
-| Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf) | arXiv |
+| Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/abs/2401.05146) | arXiv |
+| Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/abs/2401.05779) | arXiv |
+| Wu et al. | [Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks](https://arxiv.org/abs/2401.06187) | arXiv |
+| Yao et al. | [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159) | arXiv |
+| Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | arXiv |
+| Zhao et al. | [Separable Multi-Concept Erasure from Diffusion Models](https://arxiv.org/abs/2402.05947) | arXiv |
 | Zuo et al. | [Machine unlearning through fine-grained model parameters perturbation](https://arxiv.org/abs/2401.04385) | arXiv |
 
 ### 2023
@@ -117,7 +123,6 @@
 | Llamas et al. | [Effective Machine Learning-based Access Control Administration through Unlearning](https://ieeexplore.ieee.org/abstract/document/10190682?casa_token=ejAyrscJ-vwAAAAA:o0Ud_9o0VDeiHsjUoteVzt1AbOaAUgN6AKepATztFdfSfWMgKugrNG7sLP9Hcyia013w72Mj) | EuroS&PW |
 | Bae et al. | [Gradient Surgery for One-shot Unlearning on Generative Model](https://arxiv.org/abs/2307.04550) | Generative AI & LAW Workshop |
 | | |
-| Kodge et al. | [Deep Unlearning: Fast and Efficient Training Free Approach to Controlled Forgetting](https://arxiv.org/abs/2312.00761) | arXiv |
 | Abbasi et al. | [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | arXiv |
 | Alam et al. | [Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://arxiv.org/abs/2304.10638) | arXiv |
 | Bother et al. | [Modyn: A Platform for Model Training on Dynamic Datasets With Sample-Level Data Selection](https://arxiv.org/abs/2312.06254) | arXiv |
@@ -131,9 +136,10 @@
 | Dhasade et al. | [QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation](https://arxiv.org/abs/2311.15603) | arXiv |
 | Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://arxiv.org/abs/2304.13169) | arXiv |
 | Eldan et al. | [Who’s Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | arXiv |
-| Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | arXiv |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | arXiv |
+| Hong et al. | [All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2312.12807) | arXiv |
 | Huang et al. | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | arXiv |
+| Huang et al. | [Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers](https://arxiv.org/abs/2311.17717) | arXiv |
 | Jin et al. | [Forgettable Federated Linear Learning with Certified Data Removal](https://arxiv.org/abs/2306.02216) | arXiv |
 | Kim et al. | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | arXiv |
 | Kodge et al. | [Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting](https://arxiv.org/abs/2312.00761) | arXiv |
@@ -147,8 +153,10 @@
 | Li et al. | [Federated Unlearning via Active Forgetting](https://arxiv.org/abs/2307.03363) | arXiv |
 | Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://arxiv.org/abs/2307.08122) | arXiv |
 | Liu et al. | [Recommendation Unlearning via Matrix Correction](https://arxiv.org/abs/2307.15960) | arXiv |
+| Liu et al. | [Implicit Concept Removal of Diffusion Models](https://arxiv.org/abs/2310.05873) | arXiv |
 | Liu et al. | [Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning](https://arxiv.org/abs/2310.18574) | arXiv |
 | Liu et al. | [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2310.20448) | arXiv |
+| Lyu et al. | [One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications](https://arxiv.org/abs/2312.16145) | arXiv |
 | Moon et al. | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | arXiv |
 | Panda and AP | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | arXiv |
 | Pawelczyk et al. | [In-Context Unlearning: Language Models As Few Shot Unlearners](https://arxiv.org/abs/2310.07579) | arXiv |
@@ -171,6 +179,7 @@
 | Xu et al. | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | arXiv |
 | Xu and Teng | [Task-Aware Machine Unlearning and Its Application in Load Forecasting](https://arxiv.org/abs/2308.14412) | arXiv |
 | Yamashita et al. | [One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/abs/2306.05670) | arXiv |
+| Yao et al. | [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683) | arXiv |
 | Ye et al. | [Reinforcement Unlearning](https://arxiv.org/abs/2312.15910) | arXiv |
 | Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
 | Zhang et al. | [Recommendation Unlearning via Influence Function](https://arxiv.org/abs/2307.02147) | arXiv |
@@ -294,7 +303,7 @@
 | Shibata et al. | [Learning with Selective Forgetting](https://www.ijcai.org/proceedings/2021/0137.pdf) | IJCAI |
 | Liu et al. | [Federated Unlearning](https://arxiv.org/abs/2012.13891) | IWQoS |
 | Huang et al. | [EMA: Auditing Data Removal from Trained Models](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_76) | MICCAI |
-| Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/pdf/2106.04378.pdf) | NeurIPS |
+| Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/abs/2106.04378) | NeurIPS |
 | Khan and Swaroop | [Knowledge-Adaptation Priors](https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html) | NeurIPS |
 | Sekhari et al. | [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://arxiv.org/abs/2103.03279) | NeurIPS |
 | Liu et al. | [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://ieeexplore.ieee.org/abstract/document/9521274) | IWQoS |
