@@ -19,6 +19,7 @@
 ### 2024
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Zhao et al. | [Rethinking Adversarial Robustness in the Context of the Right to be Forgotten](https://icml.cc/virtual/2024/poster/32857) | ICML |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | AAAI |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | AAAI |
 | Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | AAAI |
