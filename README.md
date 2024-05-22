@@ -87,6 +87,7 @@
 | Li et al. | [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612418) | MM |
 | Hu et al. | [A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services](https://arxiv.org/abs/2309.08230) | NDSS |
 | Warnecke et al. | [Machine Unlearning for Features and Labels](https://arxiv.org/abs/2108.11577) | NDSS |
+| Zhao et al. | [Static and Sequential Malicious Attacks in the Context of Selective Forgetting](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed4bacc8c7ca1ee0e1d4e0ef376b7ac7-Abstract-Conference.html) | NeurIPS |
 | Chen et al. | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | NeurIPS |
 | Kurmanji et al. | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | NeurIPS |
 | Li et al. | [UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition](https://neurips.cc/virtual/2023/poster/72617) | NeurIPS |
