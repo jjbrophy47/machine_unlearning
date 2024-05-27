@@ -95,6 +95,7 @@
 | Wei et al. | [Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples](https://neurips.cc/virtual/2023/poster/69874) | NeurIPS |
 | Di et al. | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://neurips.cc/virtual/2023/poster/72092) | NeurIPS |
 | Heng et al. | [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/abs/2305.10120) | NeurIPS |
+| Zhao et al. | [Static and Sequential Malicious Attacks in the Context of Selective Forgetting](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed4bacc8c7ca1ee0e1d4e0ef376b7ac7-Abstract-Conference.html) | NeurIPS |
 | Leysen | [Exploring Unlearning Methods to Ensure the Privacy, Security, and Usability of Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3604915.3608862?casa_token=gf7H1bpjdYoAAAAA:133RDRcYB5BKrUgtIDHKzddEMIwqcPKbr22LILZNBNmzshoWrEy1JAWbNqb6-iKRWtxX0rtVM2K3) | RecSys |
 | Koch and Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://openreview.net/forum?id=RBX1H-SGdT) | SaTML |
 | Schelter et al. | [Forget Me Now: Fast and Exact Unlearning in Neighborhood-based Recommendation](https://ssc.io/pdf/caboose.pdf) | SIGIR |
