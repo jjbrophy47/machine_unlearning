@@ -25,7 +25,7 @@
 | Li et al. | [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | AAAI |
 | Liu et al. | [Backdoor Attacks via Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/29321) | AAAI |
 | You et al. | [RRL: Recommendation Reverse Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28782) | AAAI |
-| Fabroni et al. | [SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/abs/2211.11656) | AISTATS |
+| Fraboni et al. | [SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/abs/2211.11656) | AISTATS |
 | Alshehri and Zhang | [Forgetting User Preference in Recommendation Systems with Label-Flipping](https://ieeexplore.ieee.org/abstract/document/10386603/authors#authors) | BigData |
 | Yang and Li | [When Contrastive Learning Meets Graph Unlearning: Graph Contrastive Unlearning for Link Prediction](https://ieeexplore.ieee.org/abstract/document/10386624?casa_token=Bjay4FnV6nsAAAAA:ELDmygCAnGPf0IPUL5BBApBE7oJauAxYMGUkWZlWMHIqYVGk7dksuZ_Ui-ahThfHYe3Kbgb4xw) | BigData |
 | Hu et al. | [ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach](https://arxiv.org/abs/2311.16136) | CCS |
