@@ -55,6 +55,7 @@
 | Pham et al. | [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631) | arXiv |
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
 | Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/abs/2401.05146) | arXiv |
+| Qian et al. | [Exploring Fairness in Educational Data Mining in the Context of the Right to be Forgotten](https://arxiv.org/abs/2405.16798) | arXiv |
 | Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/abs/2401.05779) | arXiv |
 | Wu et al. | [Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks](https://arxiv.org/abs/2401.06187) | arXiv |
 | Yao et al. | [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159) | arXiv |
