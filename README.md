@@ -32,6 +32,7 @@
 | Hu et al. | [ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach](https://arxiv.org/abs/2311.16136) | CCS |
 | Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995) | CVPR |
 | Fan et al. | [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| ECCV |
+| Wu et al. | [Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks](https://arxiv.org/abs/2401.06187) | ECCV |
 | Zhang et al. | [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868) | ECCV |
 | Wang et al. | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/abs/2401.13410) | ECIR |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM) | ICLR |
@@ -60,7 +61,6 @@
 | Schoepf et al. | [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173) | arXiv |
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
 | Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/abs/2401.05779) | arXiv |
-| Wu et al. | [Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks](https://arxiv.org/abs/2401.06187) | arXiv |
 | Yao et al. | [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159) | arXiv |
 | Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | arXiv |
 | Zhao et al. | [Separable Multi-Concept Erasure from Diffusion Models](https://arxiv.org/abs/2402.05947) | arXiv |
