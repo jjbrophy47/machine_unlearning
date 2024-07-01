@@ -31,6 +31,8 @@
 | Yang and Li | [When Contrastive Learning Meets Graph Unlearning: Graph Contrastive Unlearning for Link Prediction](https://ieeexplore.ieee.org/abstract/document/10386624?casa_token=Bjay4FnV6nsAAAAA:ELDmygCAnGPf0IPUL5BBApBE7oJauAxYMGUkWZlWMHIqYVGk7dksuZ_Ui-ahThfHYe3Kbgb4xw) | BigData |
 | Hu et al. | [ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach](https://arxiv.org/abs/2311.16136) | CCS |
 | Abbasi et al. | [Brainwash: A Poisoning Attack to Forget in Continual Learning](https://arxiv.org/abs/2311.11995) | CVPR |
+| Fan et al. | [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| ECCV |
+| Zhang et al. | [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868) | ECCV |
 | Wang et al. | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/abs/2401.13410) | ECIR |
 | Fan et al. | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://openreview.net/forum?id=gn0mIhQGNM) | ICLR |
 | Liu et al. | [Tangent Transformers for Composition, Privacy and Removal](https://openreview.net/forum?id=VLFhbOCz5D) | ICLR |
@@ -47,7 +49,6 @@
 | | |
 | Li et al. | [Pseudo Unlearning via Sample Swapping with Hash](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000483?via%3Dihub) | Information Science |
 | | |
-| Fan et al. | [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| arXiv |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
 | Maini et al. | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) | arXiv |
 | Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239) | arXiv |
@@ -198,7 +199,6 @@
 | Zha et al. | [To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods](https://arxiv.org/abs/2302.03350) | arXiv |
 | Zhang et al. | [Recommendation Unlearning via Influence Function](https://arxiv.org/abs/2307.02147) | arXiv |
 | Zhang et al. | [Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions](https://arxiv.org/abs/2307.03941) | arXiv |
-| Zhang et al. | [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868) | arXiv |
 | Zhang et al. | [SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://arxiv.org/abs/2311.13174) | arXiv |
 | Zhou et al. | [Audit to Forget: A Unified Method to Revoke Patients' Private Data in Intelligent Healthcare](https://www.biorxiv.org/content/10.1101/2023.02.17.529040v1.abstract) | bioRxiv |
 | Jahanian et al. | [Protecting the Neural Networks against FGSM Attack Using Machine Unlearning](https://www.researchsquare.com/article/rs-3239986/v1) | Research Square |
