@@ -51,6 +51,7 @@
 | Li et al. | [Pseudo Unlearning via Sample Swapping with Hash](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000483?via%3Dihub) | Information Science |
 | | |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
+| Hong et al. | [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces]( https://arxiv.org/pdf/2406.11614) | arXiv |
 | Maini et al. | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121) | arXiv |
 | Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239) | arXiv |
 | Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998) | arXiv |
