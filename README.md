@@ -56,6 +56,7 @@
 | Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239) | arXiv |
 | Jung et al. | [Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization](https://arxiv.org/abs/2401.08998) | arXiv |
 | Liu et al. | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787) | arXiv |
+| Lucki et al. | [An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025) | arXiv |
 | Pham et al. | [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631) | arXiv |
 | Qian et al. | [Exploring Fairness in Educational Data Mining in the Context of the Right to be Forgotten](https://arxiv.org/abs/2405.16798) | arXiv |
 | Romandini et al. | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/abs/2401.05146) | arXiv |
