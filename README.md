@@ -45,6 +45,8 @@
 | Tsai et al. | [Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?](https://arxiv.org/abs/2310.10012) | ICLR |
 | Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Zhao et al. | [Rethinking Adversarial Robustness in the Context of the Right to be Forgotten](https://icml.cc/virtual/2024/poster/32857) | ICML |
+| Zhao et al. | [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) | NeurIPS |
+| Zhao et al. | [Scalability of memorization-based machine unlearning](https://arxiv.org/abs/2410.16516) | NeurIPS Workshop|
 | Ji et al. | [Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference](https://arxiv.org/abs/2406.08607) | NeurIPS |
 | Zhang et al. | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | NeurIPS |
 | Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | NeurIPS D&B |
