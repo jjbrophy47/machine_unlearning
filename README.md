@@ -45,9 +45,8 @@
 | Tsai et al. | [Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?](https://arxiv.org/abs/2310.10012) | ICLR |
 | Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Zhao et al. | [Rethinking Adversarial Robustness in the Context of the Right to be Forgotten](https://icml.cc/virtual/2024/poster/32857) | ICML |
-| Zhao et al. | [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) | NeurIPS |
-| Zhao et al. | [Scalability of memorization-based machine unlearning](https://arxiv.org/abs/2410.16516) | NeurIPS Workshop|
 | Ji et al. | [Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference](https://arxiv.org/abs/2406.08607) | NeurIPS |
+| Zhao et al. | [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) | NeurIPS |
 | Zhang et al. | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | NeurIPS |
 | Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | NeurIPS D&B |
 | Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
@@ -57,6 +56,8 @@
 | Zhang | [Graph Unlearning with Efficient Partial Retraining](https://dl.acm.org/doi/abs/10.1145/3589335.3651265) | WWW |
 | | |
 | Li et al. | [Pseudo Unlearning via Sample Swapping with Hash](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000483?via%3Dihub) | Information Science |
+| | |
+| Zhao et al. | [Scalability of memorization-based machine unlearning](https://arxiv.org/abs/2410.16516) | NeurIPS Workshop|
 | | |
 | Fan et al. | [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163) | arXiv |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
