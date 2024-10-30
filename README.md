@@ -45,11 +45,11 @@
 | Tsai et al. | [Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?](https://arxiv.org/abs/2310.10012) | ICLR |
 | Wang et al. | [A Unified and General Framework for Continual Learning](https://openreview.net/forum?id=BE5aK0ETbp) | ICLR |
 | Zhao et al. | [Rethinking Adversarial Robustness in the Context of the Right to be Forgotten](https://icml.cc/virtual/2024/poster/32857) | ICML |
+| Xue et al. | [Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction](https://arxiv.org/pdf/2405.15517) | MIDL |
 | Ji et al. | [Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference](https://arxiv.org/abs/2406.08607) | NeurIPS |
 | Zhao et al. | [What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257) | NeurIPS |
 | Zhang et al. | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | NeurIPS |
 | Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | NeurIPS D&B |
-| Xue et al. | [Erase to Enhance: Data-Efficient Machine Unlearning in MRI Reconstruction](https://arxiv.org/pdf/2405.15517) | MIDL |
 | Kurmanji et al. | [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/abs/2311.17276) | SIGMOD |
 | Shen et al. | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.89) | SDM |
 | Hoang et al. | [Learn To Unlearn for Deep Neural Networks: Minimizing Unlearning Interference With Gradient Projection](https://openaccess.thecvf.com/content/WACV2024/html/Hoang_Learn_To_Unlearn_for_Deep_Neural_Networks_Minimizing_Unlearning_Interference_WACV_2024_paper.html) | WACV |
