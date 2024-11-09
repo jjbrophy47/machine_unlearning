@@ -60,6 +60,8 @@
 | | |
 | Zhao et al. | [Scalability of memorization-based machine unlearning](https://arxiv.org/abs/2410.16516) | NeurIPS Workshop|
 | | |
+| Dontsov et al. | [CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057) | arXiv |
+| Zhang et al. | [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454) | arXiv |
 | Fan et al. | [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163) | arXiv |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
 | Hong et al. | [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces]( https://arxiv.org/pdf/2406.11614) | arXiv |
