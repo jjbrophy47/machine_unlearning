@@ -61,7 +61,6 @@
 | Zhao et al. | [Scalability of memorization-based machine unlearning](https://arxiv.org/abs/2410.16516) | NeurIPS Workshop|
 | | |
 | Dontsov et al. | [CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057) | arXiv |
-| Zhang et al. | [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454) | arXiv |
 | Fan et al. | [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163) | arXiv |
 | Foster et al. | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | arXiv |
 | Hong et al. | [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces]( https://arxiv.org/pdf/2406.11614) | arXiv |
@@ -76,6 +75,7 @@
 | Schoepf et al. | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | arXiv |
 | Wu et al. | [EraseDiff: Erasing Data Influence In Diffusion Models](https://arxiv.org/abs/2401.05779) | arXiv |
 | Yao et al. | [Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159) | arXiv |
+| Zhang et al. | [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454) | arXiv |
 | Zhao et al. | [Separable Multi-Concept Erasure from Diffusion Models](https://arxiv.org/abs/2402.05947) | arXiv |
 | Zuo et al. | [Machine unlearning through fine-grained model parameters perturbation](https://arxiv.org/abs/2401.04385) | arXiv |
 
