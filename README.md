@@ -94,6 +94,7 @@
 | Hagos et al. | [Unlearning Spurious Correlations in Chest X-ray Classification](https://arxiv.org/abs/2308.01119) | Discovery Science |
 | Mireshghallah et al. | [Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN](https://aclanthology.org/2023.emnlp-main.452/) | EMNLP |
 | Gandikota et al. | [Erasing Concepts from Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.pdf) | ICCV |
+| Kumari et al. | [Ablating Concepts in Text-to-Image Diffusion Models](https://github.com/nupurkmr9/concept-ablation) | ICCV |
 | Liu et al. | [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | ICCV |
 | Zheng et al. | [Graph Unlearning Using Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-981-99-7356-9_29) | ICICS |
 | Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | ICLR |
