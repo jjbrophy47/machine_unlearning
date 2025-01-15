@@ -19,6 +19,7 @@
 ### 2024
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
+| Lin et al. | [GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients](https://dl.acm.org/doi/abs/10.1145/3664647.3680775?casa_token=rSkm62J9YJAAAAAA:uBuDmmFVPV5qYz3Ydan4q99mCx-T3E6DwTOyAMtkwuMd_v_oy800AUVgGLzljbnAueX3uicgLRr_TA) | ACM MM |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | AAAI |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | AAAI |
 | Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | AAAI |
