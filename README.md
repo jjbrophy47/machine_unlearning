@@ -19,13 +19,13 @@
 ### 2024
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
-| Lin et al. | [GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients](https://dl.acm.org/doi/abs/10.1145/3664647.3680775?casa_token=rSkm62J9YJAAAAAA:uBuDmmFVPV5qYz3Ydan4q99mCx-T3E6DwTOyAMtkwuMd_v_oy800AUVgGLzljbnAueX3uicgLRr_TA) | ACM MM |
 | Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | AAAI |
 | Foster et al. | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | AAAI |
 | Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | AAAI |
 | Li et al. | [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | AAAI |
 | Liu et al. | [Backdoor Attacks via Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/29321) | AAAI |
 | You et al. | [RRL: Recommendation Reverse Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28782) | AAAI |
+| Lin et al. | [GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients](https://dl.acm.org/doi/abs/10.1145/3664647.3680775?casa_token=rSkm62J9YJAAAAAA:uBuDmmFVPV5qYz3Ydan4q99mCx-T3E6DwTOyAMtkwuMd_v_oy800AUVgGLzljbnAueX3uicgLRr_TA) | ACM MM |
 | Fraboni et al. | [SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/abs/2211.11656) | AISTATS |
 | Alshehri and Zhang | [Forgetting User Preference in Recommendation Systems with Label-Flipping](https://ieeexplore.ieee.org/abstract/document/10386603/authors#authors) | BigData |
 | Qiu et al. | [FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation](https://ieeexplore.ieee.org/document/10386788) | BigData |
