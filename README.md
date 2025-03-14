@@ -19,14 +19,15 @@
 ### 2025
 | Author(s)       | Title                                                                                                                         | Venue |
 |:----------------|-------------------------------------------------------------------------------------------------------------------------------|-------|
-| Di et al. | [Adversarial Machine Unlearning](https://openreview.net/pdf?id=swWF948IiC) | ICLR |
+| Shokri et al.   | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
 | Choi et al.     | [Unlearning-based Neural Interpretations](https://arxiv.org/pdf/2410.08069) | ICLR |
+| Di et al. | [Adversarial Machine Unlearning](https://openreview.net/pdf?id=swWF948IiC) | ICLR |
 | Li et al.       | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=vRvVVb0NAz) | ICLR |
 | Scholten et al. | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/pdf/2410.03523) | ICLR |
+| | |
 | Kim et al.      | [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org/pdf/2503.06991) | arxiv |
-| Wang et al.     | [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/pdf/2503.09117) | arxiv |
 | Kwak et al.     | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583) | arxiv |
-| Shokri et al.   | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
+| Wang et al.     | [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/pdf/2503.09117) | arxiv |
 
 
 ### 2024
