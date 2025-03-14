@@ -16,6 +16,15 @@
 
 ---
 
+### 2025
+| Author(s) | Title                                                                                                                           | Venue |
+|:--------- |---------------------------------------------------------------------------------------------------------------------------------|-------|
+| Kim et al. | [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org/pdf/2503.06991) | arxiv |
+| Wang et al. | [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/pdf/2503.09117) | arxiv |
+| Kwak et al. | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583) | arxiv |
+| Shokri et al. | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
+
+
 ### 2024
 | Author(s) | Title | Venue |
 |:--------- | ----- | ----- |
