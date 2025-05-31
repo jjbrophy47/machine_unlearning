@@ -20,6 +20,7 @@
 | Author(s)       | Title                                                                                                                         | Venue |
 |:----------------|-------------------------------------------------------------------------------------------------------------------------------|-------|
 | Shokri et al.   | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
+| Zhou et al.   | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | CVPR |
 | Choi et al.     | [Unlearning-based Neural Interpretations](https://arxiv.org/pdf/2410.08069) | ICLR |
 | Di et al. | [Adversarial Machine Unlearning](https://openreview.net/pdf?id=swWF948IiC) | ICLR |
 | Li et al.       | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=vRvVVb0NAz) | ICLR |
