@@ -20,11 +20,14 @@
 | Author(s)       | Title                                                                                                                         | Venue |
 |:----------------|-------------------------------------------------------------------------------------------------------------------------------|-------|
 | Mekala et al.   | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
+| Zhou et al.   | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | CVPR |
 | Choi et al.     | [Unlearning-based Neural Interpretations](https://arxiv.org/pdf/2410.08069) | ICLR |
 | Di et al. | [Adversarial Machine Unlearning](https://openreview.net/pdf?id=swWF948IiC) | ICLR |
 | Li et al.       | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=vRvVVb0NAz) | ICLR |
 | Scholten et al. | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/pdf/2410.03523) | ICLR |
 | Wang et al. | [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion) | WWW |
+| | |
+| Vidal et al. | [Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU](https://arxiv.org/abs/2503.15166)) | CVPR Workshop |
 | | |
 | Kim et al.      | [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org/pdf/2503.06991) | arxiv |
 | Kwak et al.     | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583) | arxiv |
