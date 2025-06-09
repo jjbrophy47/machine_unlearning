@@ -24,6 +24,7 @@
 ### 2025
 | Author(s)       | Title                                                                                                                         | Venue |
 |:----------------|-------------------------------------------------------------------------------------------------------------------------------|-------|
+| Wang et al.   | [Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](https://arxiv.org/abs/2506.06112) | USENIX Security |
 | Mekala et al.   | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
 | Zhou et al.   | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | CVPR |
 | Choi et al.     | [Unlearning-based Neural Interpretations](https://arxiv.org/pdf/2410.08069) | ICLR |
