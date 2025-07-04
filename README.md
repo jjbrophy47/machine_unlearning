@@ -30,6 +30,7 @@
 | Di et al. | [Adversarial Machine Unlearning](https://openreview.net/pdf?id=swWF948IiC) | ICLR |
 | Li et al.       | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=vRvVVb0NAz) | ICLR |
 | Scholten et al. | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/pdf/2410.03523) | ICLR |
+| Wang et al.   | [Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](https://arxiv.org/abs/2506.06112) | USENIX Security |
 | Wang et al. | [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion) | WWW |
 | | |
 | Vidal et al. | [Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU](https://arxiv.org/abs/2503.15166)) | CVPR Workshop |
