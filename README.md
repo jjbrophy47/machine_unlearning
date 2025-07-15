@@ -32,12 +32,14 @@
 | Scholten et al. | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/pdf/2410.03523) | ICLR |
 | Wang et al.   | [Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](https://arxiv.org/abs/2506.06112) | USENIX Security |
 | Wang et al. | [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion) | WWW |
+| Naderloui et al.   | [Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective](https://arxiv.org/abs/2506.13009) | USENIX Security |
 | | |
 | Vidal et al. | [Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU](https://arxiv.org/abs/2503.15166)) | CVPR Workshop |
 | | |
 | Kim et al.      | [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org/pdf/2503.06991) | arxiv |
 | Kwak et al.     | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583) | arxiv |
 | Wang et al.     | [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/pdf/2503.09117) | arxiv |
+
 
 
 ### 2024
