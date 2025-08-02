@@ -24,6 +24,7 @@
 ### 2025
 | Author(s)       | Title                                                                                                                         | Venue |
 |:----------------|-------------------------------------------------------------------------------------------------------------------------------|-------|
+| Pathak et al.   | [Quantum-Inspired Audio Unlearning: Towards Privacy-Preserving Voice Biometrics](https://www.arxiv.org/abs/2507.22208) | IJCB |
 | Mekala et al.   | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2409.13474) | COLING |
 | Zhou et al.   | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | CVPR |
 | Choi et al.     | [Unlearning-based Neural Interpretations](https://arxiv.org/pdf/2410.08069) | ICLR |
