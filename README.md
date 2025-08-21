@@ -8,6 +8,8 @@
 
 [OpenUnlearning](https://github.com/locuslab/open-unlearning)
 
+[Machine Unlearning Comparator](https://github.com/gnueaj/Machine-Unlearning-Comparator)
+
 ## Papers
 
 [2025](#2025) &nbsp;
