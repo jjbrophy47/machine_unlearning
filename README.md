@@ -106,8 +106,6 @@
 | Zhang et al. | [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454) | arXiv |
 | Zhao et al. | [Separable Multi-Concept Erasure from Diffusion Models](https://arxiv.org/abs/2402.05947) | arXiv |
 | Zuo et al. | [Machine unlearning through fine-grained model parameters perturbation](https://arxiv.org/abs/2401.04385) | arXiv |
-|||
-| Jaeung Lee | [Machine Unlearning Comparator](https://github.com/gnueaj/Machine-Unlearning-Comparator) | Github |
 
 ### 2023
 | Author(s) | Title | Venue |
