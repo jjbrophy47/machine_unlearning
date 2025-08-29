@@ -247,6 +247,7 @@
 | Fu et al.           | [FADE: Adversarial Concept Erasure in Flow Models](https://arxiv.org/abs/2507.12283)                                                                                                                                                                                                                             | arxiv                                                |
 |Wu et al. | [MUNBa: Machine Unlearning via Nash Bargaining](https://arxiv.org/abs/2411.15537)|arxiv|
 
+
 ### 2024
 
 | Author(s)          | Title                                                                                                                                                                                                                                                                 | Venue                                                     |
