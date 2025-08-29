@@ -8,6 +8,8 @@
 
 [OpenUnlearning](https://github.com/locuslab/open-unlearning)
 
+[Machine Unlearning Comparator](https://github.com/gnueaj/Machine-Unlearning-Comparator)
+
 ## Papers
 
 [2025](#2025) &nbsp;
@@ -470,7 +472,6 @@
 | Tu et al.          | [Towards Reliable Empirical Machine Unlearning Evaluation: A Cryptographic Game Perspective](https://arxiv.org/abs/2404.11577)                                                                                                                                        | arxiv                                                     |
 | Zhuang et al.      | [UOE: Unlearning One Expert is Enough for Mixture-of-Experts LLMs](https://openreview.net/forum?id=ZClm0YbcXP)                                                                                                                                                        | arxiv                                                     |
 |                    |                                                                                                                                                                                                                                                                       |
-| Jaeung Lee         | [Machine Unlearning Comparator](https://github.com/gnueaj/Machine-Unlearning-Comparator)                                                                                                                                                                              | Github                                                    |
 | Liu                | [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)                                                                                                                                                                                          | Blog Post                                                 |
 
 ### 2023
