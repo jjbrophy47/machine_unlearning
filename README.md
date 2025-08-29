@@ -30,6 +30,7 @@
 | Di et al. | [Adversarial Machine Unlearning](https://openreview.net/pdf?id=swWF948IiC) | ICLR |
 | Li et al.       | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=vRvVVb0NAz) | ICLR |
 | Scholten et al. | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://arxiv.org/pdf/2410.03523) | ICLR |
+| Guven et al. | [Machine Unlearning for Uplink Interference Cancellation](https://ieeexplore.ieee.org/abstract/document/10901616) | IEEE GLOBECOM |
 | Wang et al.   | [Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](https://arxiv.org/abs/2506.06112) | USENIX Security |
 | Wang et al. | [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://openreview.net/forum?id=LedrHK34jZ#discussion) | WWW |
 | | |
@@ -37,7 +38,6 @@
 | Kim et al.      | [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://arxiv.org/pdf/2503.06991) | arxiv |
 | Kwak et al.     | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583) | arxiv |
 | Wang et al.     | [GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models](https://arxiv.org/pdf/2503.09117) | arxiv |
-| Guven et al. | [Machine Unlearning for Uplink Interference Cancellation](https://ieeexplore.ieee.org/abstract/document/10901616) | IEEE GLOBECOM |
 
 
 ### 2024
