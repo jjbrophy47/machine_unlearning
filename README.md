@@ -4,7 +4,7 @@
 ![Github repo stars](https://img.shields.io/github/stars/jjbrophy47/machine_unlearning)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jjbrophy47/machine_unlearning)
 
-## Framework
+## Frameworks
 
 [OpenUnlearning](https://github.com/locuslab/open-unlearning)
 
